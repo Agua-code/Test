@@ -1,0 +1,846 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="timetable" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ee447bd8-4ad3-4cc2-b39e-68171110abd9" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-2035185665">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="113" />
+          <entry key="project.open.time.0" value="23" />
+          <entry key="project.open.time.1" value="13" />
+          <entry key="project.open.time.10" value="4" />
+          <entry key="project.open.time.11" value="3" />
+          <entry key="project.open.time.12" value="4" />
+          <entry key="project.open.time.13" value="3" />
+          <entry key="project.open.time.14" value="5" />
+          <entry key="project.open.time.15" value="4" />
+          <entry key="project.open.time.16" value="12" />
+          <entry key="project.open.time.17" value="8" />
+          <entry key="project.open.time.18" value="1" />
+          <entry key="project.open.time.19" value="3" />
+          <entry key="project.open.time.2" value="1" />
+          <entry key="project.open.time.20" value="4" />
+          <entry key="project.open.time.23" value="2" />
+          <entry key="project.open.time.24" value="3" />
+          <entry key="project.open.time.3" value="6" />
+          <entry key="project.open.time.4" value="11" />
+          <entry key="project.open.time.5" value="1" />
+          <entry key="project.open.time.7" value="1" />
+          <entry key="project.open.time.8" value="2" />
+          <entry key="project.open.time.9" value="2" />
+          <entry key="project.opened" value="116" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="class" value="12" />
+          <entry key="iml" value="1" />
+          <entry key="java" value="357" />
+          <entry key="json" value="113" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="CLASS" value="12" />
+          <entry key="IDEA_MODULE" value="1" />
+          <entry key="JAVA" value="357" />
+          <entry key="JSON" value="113" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="dummy" value="42" />
+          <entry key="java" value="32700" />
+          <entry key="json" value="2365" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="32700" />
+          <entry key="JSON" value="2365" />
+          <entry key="PLAIN_TEXT" value="42" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.vcs.git.usages" />
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <splitter split-orientation="horizontal" split-proportion="0.5385557">
+      <split-first>
+        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+          <file pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/src/QZB/QZBGraphcolor.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="221">
+                  <caret line="2897" column="28" selection-start-line="2897" selection-start-column="28" selection-end-line="2897" selection-end-column="28" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/QZB/test.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="-3308">
+                  <caret line="55" column="98" selection-start-line="55" selection-start-column="98" selection-end-line="55" selection-end-column="98" />
+                  <folding>
+                    <element signature="imports" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-first>
+      <split-second>
+        <leaf>
+          <file pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/src/QZB/QZBPKInfo_test8.0.json">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="-5614">
+                  <caret line="58051" column="5" selection-start-line="58051" selection-start-column="3" selection-end-line="58051" selection-end-column="5" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-second>
+    </splitter>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>&quot;courseTeaID&quot;: 7062,</find>
+      <find>&quot;courseTeaID&quot;: 7064,</find>
+      <find>&quot;courseTeaID&quot;: 7066,</find>
+      <find>&quot;courseTeaID&quot;: 7058,</find>
+      <find>&quot;courseTeaID&quot;: 7059,</find>
+      <find>&quot;courseTeaID&quot;: 7082,</find>
+      <find>&quot;courseTeaID&quot;: 7046,</find>
+      <find>&quot;courseTeaID&quot;: 7040,</find>
+      <find>&quot;courseTeaID&quot;: 361,</find>
+      <find>Cal_JP_Score</find>
+      <find>7055</find>
+      <find>&quot;courseTeaID&quot;: 360,</find>
+      <find>集中排课</find>
+      <find>Sort_Src</find>
+      <find>361</find>
+      <find>Cal_Class_Score</find>
+      <find>Cal_TScr</find>
+      <find>&quot;courseID&quot;:</find>
+      <find>307</find>
+      <find>7319</find>
+      <find>xk</find>
+      <find>Initial_Color</find>
+      <find>setcolor</find>
+      <find>Node_Course</find>
+      <find>Crs_AvrT</find>
+      <find>YPK_Num</find>
+      <find>Class_Crs_CD</find>
+      <find>Class_Crs</find>
+      <find>XK</find>
+      <find>YPK</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/XZPK/HBKInfo.java" />
+        <option value="$PROJECT_DIR$/src/XZPK/YPKDataInfo.java" />
+        <option value="$PROJECT_DIR$/src/XZPK/ResultOutput.java" />
+        <option value="$PROJECT_DIR$/src/XZPK/Rule.java" />
+        <option value="$PROJECT_DIR$/src/XZPK/Unsatisfaction.java" />
+        <option value="$PROJECT_DIR$/src/XZPK/ClassResultList.java" />
+        <option value="$PROJECT_DIR$/src/XZPK/TeaResultList.java" />
+        <option value="$PROJECT_DIR$/src/XZPK/新建文件夹/demon_data1.0.json" />
+        <option value="$PROJECT_DIR$/src/QZB/HBKClassInfo.java" />
+        <option value="$PROJECT_DIR$/src/QZB/ProblematicCrs.java" />
+        <option value="$PROJECT_DIR$/src/QZB/ClassCrsInfo.java" />
+        <option value="$PROJECT_DIR$/src/QZB/YPKInfo.java" />
+        <option value="$PROJECT_DIR$/src/QZB/StuMoveList.java" />
+        <option value="$PROJECT_DIR$/src/QZB/StuXKList.java" />
+        <option value="$PROJECT_DIR$/src/QZB/ClassResultList.java" />
+        <option value="$PROJECT_DIR$/src/XZPK/demon_data11.json" />
+        <option value="$PROJECT_DIR$/src/XZPK/MyException.java" />
+        <option value="$PROJECT_DIR$/src/XZPK/新建文件夹/demon_data11.json" />
+        <option value="$PROJECT_DIR$/src/QZB/MyException.java" />
+        <option value="$PROJECT_DIR$/src/XZPK/新建文件夹/demon_data22.json" />
+        <option value="$PROJECT_DIR$/src/XZPK/新建文件夹/demon_data33.json" />
+        <option value="$PROJECT_DIR$/src/XZPK/新建文件夹/demon_data44.json" />
+        <option value="$USER_HOME$/Documents/WeChat Files/SZ1996328/Files/demon_data(1).json" />
+        <option value="$PROJECT_DIR$/src/XZPK/test.java" />
+        <option value="$PROJECT_DIR$/src/XZPK/XZGraphcolor.java" />
+        <option value="$PROJECT_DIR$/src/ZBPK/Graphcolor.java" />
+        <option value="$PROJECT_DIR$/src/QZB/demon_data1.0.json" />
+        <option value="$PROJECT_DIR$/src/QZB/StuDataInfo.java" />
+        <option value="$USER_HOME$/Desktop/QZBPKOutputData.json" />
+        <option value="$PROJECT_DIR$/src/QZB/StuCourseListInfo.java" />
+        <option value="$PROJECT_DIR$/src/QZB/QZBPKOutputData.json" />
+        <option value="$PROJECT_DIR$/src/QZB/BasicDataInfo.java" />
+        <option value="$PROJECT_DIR$/src/QZB/CourseInfo.java" />
+        <option value="$PROJECT_DIR$/src/QZB/NoClassTimeInfo.java" />
+        <option value="$PROJECT_DIR$/src/QZB/ResultOutput.java" />
+        <option value="$USER_HOME$/Desktop/OutputData.json" />
+        <option value="$PROJECT_DIR$/src/QZB/QZBPKInfo_test.json" />
+        <option value="$USER_HOME$/Documents/Tencent Files/545249803/FileRecv/MobileFile/QZBPKInfo3.0.json" />
+        <option value="$PROJECT_DIR$/src/QZB/QZBPKInfo_test(1).json" />
+        <option value="$PROJECT_DIR$/src/QZB/QZBPKInfo_test2.0.json" />
+        <option value="$USER_HOME$/Desktop/QZBPKInfo_test(2).json" />
+        <option value="$PROJECT_DIR$/src/QZB/QZBPKInfo_test3.0.json" />
+        <option value="$PROJECT_DIR$/src/QZB/XKListInfo.java" />
+        <option value="$PROJECT_DIR$/src/QZB/QZBPKInfo_test5.0.json" />
+        <option value="$PROJECT_DIR$/src/QZB/StuResultList.java" />
+        <option value="$PROJECT_DIR$/src/QZB/QZBPKInfo_test6.0.json" />
+        <option value="$PROJECT_DIR$/src/QZB/QZBPKInfo_test8.0.json" />
+        <option value="$PROJECT_DIR$/src/QZB/11.json" />
+        <option value="$PROJECT_DIR$/src/QZB/QZBPKInfo3.0.json" />
+        <option value="$PROJECT_DIR$/src/QZB/test.java" />
+        <option value="$PROJECT_DIR$/src/QZB/QZBGraphcolor.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="254" />
+    <option name="y" value="67" />
+    <option name="width" value="1541" />
+    <option name="height" value="945" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="PK" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PK" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PK" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PK" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PK" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PK" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="QZB" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PK" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1546763297333" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\18367\IdeaProjects\PK\src\QZB" />
+      <recent name="C:\Users\18367\IdeaProjects\PK\src\QZB\.idea" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="QZB" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\18367\IdeaProjects\PK\src\QZB" />
+      <recent name="C:\Users\18367\IdeaProjects\PK\src\QZB\.idea" />
+      <recent name="C:\Users\18367\IdeaProjects\PK\src\XZPK\新建文件夹" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.test (1)">
+    <configuration name="Graphcolor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ZBPK.Graphcolor" />
+      <module name="PK" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ZBPK.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Read" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="XZPK.Read" />
+      <module name="PK" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="XZPK.ResultOutput" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="XZGraphcolor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="XZPK.XZGraphcolor" />
+      <module name="PK" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="XZPK.ResultOutput" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="test (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="QZB.test" />
+      <module name="PK" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="QZB.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="XZPK.test" />
+      <module name="PK" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="XZPK.ResultOutput" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Graphcolor" />
+      <item itemvalue="Application.XZGraphcolor" />
+      <item itemvalue="Application.Read" />
+      <item itemvalue="Application.test" />
+      <item itemvalue="Application.test (1)" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.test (1)" />
+        <item itemvalue="Application.test" />
+        <item itemvalue="Application.XZGraphcolor" />
+        <item itemvalue="Application.Read" />
+        <item itemvalue="Application.Graphcolor" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ee447bd8-4ad3-4cc2-b39e-68171110abd9" name="Default Changelist" comment="" />
+      <created>1535098615646</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1535098615646</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.12899786" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32799014" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.34056398" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39696312" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.329718" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.329718" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.3286334" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.2498469" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info anchor="right" id="Maven Projects" order="7" weight="0.32995737" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/QZB/StuMoveList.java" />
+    <entry file="file://$PROJECT_DIR$/src/XZPK/demon_data11.json" />
+    <entry file="file://$PROJECT_DIR$/src/XZPK/新建文件夹/demon_data11.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-42332">
+          <caret line="1067" column="15" selection-start-line="1067" selection-start-column="15" selection-end-line="1067" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/XZPK/ErrorList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/QZB/ErrorList.java" />
+    <entry file="file://$PROJECT_DIR$/src/QZB/MyException.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/XZPK/新建文件夹/demon_data22.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="106">
+          <caret line="3827" column="15" lean-forward="true" selection-start-line="3827" selection-start-column="15" selection-end-line="3827" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/XZPK/新建文件夹/demon_data44.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="467">
+          <caret line="963" column="14" selection-start-line="948" selection-start-column="3" selection-end-line="948" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Documents/WeChat Files/SZ1996328/Files/demon_data(1).json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="948" column="6" selection-start-line="948" selection-start-column="3" selection-end-line="948" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/XZPK/新建文件夹/demon_data33.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="293">
+          <caret line="3761" column="6" selection-start-line="3761" selection-start-column="3" selection-end-line="3761" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/XZPK/TimeInfo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/XZPK/TeaResultList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="28" column="12" selection-start-line="28" selection-start-column="12" selection-end-line="28" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/XZPK/CourseInfo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/XZPK/MyException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="13" column="25" selection-start-line="13" selection-start-column="25" selection-end-line="13" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../FB.iml" />
+    <entry file="file://$PROJECT_DIR$/src/ZBPK/Graphcolor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75625">
+          <caret line="4772" column="13" lean-forward="true" selection-start-line="4772" selection-start-column="13" selection-end-line="4772" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/XZPK/test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="549">
+          <caret line="56" column="25" selection-start-line="56" selection-start-column="14" selection-end-line="56" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/JSON注释/demon_data（注释）.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-4399">
+          <caret line="71" column="26" selection-start-line="71" selection-start-column="22" selection-end-line="71" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/JSON注释/demon_data（注释版）.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-5995" />
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/src/XZPK/Json jar包/json-lib-2.2.2-jdk15.jar!/net/sf/json/JSONObject.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="246">
+          <caret line="1368" selection-start-line="1368" selection-end-line="1368" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/QZB/StuDataInfo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="547">
+          <caret line="40" column="59" selection-start-line="40" selection-start-column="59" selection-end-line="40" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/QZBPKOutputData.json" />
+    <entry file="file://$PROJECT_DIR$/src/QZB/CourseInfo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="523">
+          <caret line="76" column="5" selection-start-line="76" selection-start-column="5" selection-end-line="76" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/QZB/NoClassTimeInfo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="409">
+          <caret line="42" column="5" selection-start-line="42" selection-start-column="5" selection-end-line="42" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/QZB/ResultOutput.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="608">
+          <caret line="38" column="45" selection-start-line="38" selection-start-column="32" selection-end-line="38" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/QZB/Unsatisfaction.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="437">
+          <caret line="32" column="12" lean-forward="true" selection-start-line="32" selection-start-column="12" selection-end-line="32" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/QZB/ProblematicCrs.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="8" column="27" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/QZB/Rule.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="20" column="16" lean-forward="true" selection-start-line="20" selection-start-column="7" selection-end-line="20" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/QZB/ClassResultList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="34" column="5" selection-start-line="34" selection-start-column="5" selection-end-line="34" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/OutputData.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="547">
+          <caret line="70" column="5" lean-forward="true" selection-start-line="70" selection-start-column="5" selection-end-line="70" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/QZB/QZBPKInfo_test.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="281" column="20" selection-start-line="281" selection-start-column="20" selection-end-line="281" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/QZB/demon_data1.0.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="13726">
+          <caret line="724" column="12" selection-start-line="724" selection-start-column="12" selection-end-line="724" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Documents/Tencent Files/545249803/FileRecv/MobileFile/QZBPKInfo2.0.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/QZB/ClassCrsInfo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/QZB/QZBPKInfo_test2.0.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="807">
+          <caret line="61373" column="6" selection-start-line="61373" selection-start-column="6" selection-end-line="61373" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/QZB/QZBPKOutputData.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="334" column="38" lean-forward="true" selection-start-line="334" selection-start-column="2" selection-end-line="334" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/QZB/XKListInfo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="20" column="5" selection-start-line="20" selection-start-column="5" selection-end-line="20" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/QZB/BasicDataInfo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1824">
+          <caret line="165" column="5" selection-start-line="165" selection-start-column="5" selection-end-line="165" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/QZB/QZBPKInfo_test3.0.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="151">
+          <caret line="666" column="14" selection-start-line="666" selection-start-column="14" selection-end-line="666" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/QZB/QZBPKInfo_test5.0.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="17" column="21" selection-start-line="17" selection-start-column="21" selection-end-line="17" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/QZB/StuCourseListInfo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="22" column="35" selection-start-line="22" selection-start-column="35" selection-end-line="22" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/QZB/TeaResultList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="18" column="27" selection-start-line="18" selection-start-column="27" selection-end-line="18" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/QZB/StuResultList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="834">
+          <caret line="75" column="27" selection-start-line="75" selection-start-column="27" selection-end-line="75" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/QZB/QZBPKInfo_test6.0.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" column="23" selection-start-line="8" selection-start-column="23" selection-end-line="8" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/XZPK/Unsatisfaction.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="12" column="83" selection-start-line="12" selection-start-column="83" selection-end-line="12" selection-end-column="83" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/XZPK/XZGraphcolor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-5571">
+          <caret line="2234" column="16" selection-start-line="2234" selection-start-column="16" selection-end-line="2234" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/QZB/11.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-200818">
+          <caret line="44" column="23" selection-start-line="44" selection-start-column="23" selection-end-line="44" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/QZB/QZBPKInfo3.0.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="828" column="9" selection-start-line="828" selection-start-column="9" selection-end-line="828" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/QZB/test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3308">
+          <caret line="55" column="98" selection-start-line="55" selection-start-column="98" selection-end-line="55" selection-end-column="98" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/QZB/QZBPKInfo_test8.0.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-5614">
+          <caret line="58051" column="5" selection-start-line="58051" selection-start-column="3" selection-end-line="58051" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/QZB/QZBGraphcolor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="2897" column="28" selection-start-line="2897" selection-start-column="28" selection-end-line="2897" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited>timetable</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>10</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>PK</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Json jar包</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

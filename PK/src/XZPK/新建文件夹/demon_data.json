@@ -1,0 +1,235 @@
+{
+  "weakDay": 5,
+  "dayCrsMr": 3,
+  "dayCrsAf": 3,
+  "dayCrs": 6,
+  "classData":{
+    "classNum":3,
+    "classList":[1607,1608,1609]
+  },
+  "crsData": {
+    "crsNum": 5,
+    "crsList": [{"id": 1854,"name": "语文"},{"id": 1855,"name": "数学"},{"id": 1856,"name": "英语"},{"id": 1857,"name": "物理"},{"id": 1858,"name": "化学"}]
+  },
+  "teaData": {
+    "teaNum": 10,
+    "teaList":  [6419,6420,6421,6422,6423,6429,6430,6431,6432,6433]
+  },
+  "ctwo": 1,
+  "ctwoData": {
+    "ctwoCrs": [ 1854, 1855, 1856 ],
+    "ctwoTime": 4
+  },
+  "classCrsData": [
+    {
+      "classID": 1607,
+      "className": "高三1班",
+      "course": [
+        {
+          "courseID": 1854, 
+          "courseName": "语文", 
+          "courseNum": 5, 
+          "courseLTNum": 0, 
+          "courseTeaNum": 1, 
+          "teacherList": [{"id": 6419,"name": "李俊"}]
+        },
+        {
+          "courseID": 1855,
+          "courseName": "数学",
+          "courseNum": 5,
+          "courseLTNum": 1,
+          "courseTeaNum": 1,
+          "teacherList": [{"id": 6420,"name": "朱礼"}]
+        },
+		{
+          "courseID": 1856, 
+          "courseName": "英语", 
+          "courseNum": 5, 
+          "courseLTNum": 0, 
+          "courseTeaNum": 1, 
+          "teacherList": [{"id": 6421,"name": "孙丹"}]
+        },
+        {
+          "courseID": 1857,
+          "courseName": "物理",
+          "courseNum": 5,
+          "courseLTNum": 0,
+          "courseTeaNum": 1,
+          "teacherList": [{"id": 6422,"name": "鲁小平"}]
+        },
+		{
+          "courseID": 1858,
+          "courseName": "化学",
+          "courseNum": 5,
+          "courseLTNum": 0,
+          "courseTeaNum": 1,
+          "teacherList": [{"id": 6423,"name": "余莉（大）"}]
+        }
+      ]
+    },
+    {
+      "classID": 1609,
+      "className": "高三3班",
+      "course": [
+        {
+          "courseID": 1854,
+          "courseName": "语文",
+          "courseNum": 5,
+          "courseLTNum": 0,
+          "courseTeaNum": 1,
+          "teacherList": [{"id": 6419,"name": "李俊"}]
+        },
+        {
+          "courseID": 1855,
+          "courseName": "数学",
+          "courseNum": 5,
+          "courseLTNum": 1,
+          "courseTeaNum": 1,
+          "teacherList": [{"id": 6430,"name": "刘巧梅"}]
+        },
+        {
+          "courseID": 1856,
+          "courseName": "英语",
+          "courseNum": 5,
+          "courseLTNum": 0,
+          "courseTeaNum": 1,
+          "teacherList": [{"id": 6431,"name": "徐胜"}]
+        },
+        {
+          "courseID": 1857,
+          "courseName": "物理",
+          "courseNum": 5,
+          "courseLTNum": 0,
+          "courseTeaNum": 1,
+          "teacherList": [{"id": 6422,"name": "鲁小平"}]
+        },
+        {
+          "courseID": 1858,
+          "courseName": "化学",
+          "courseNum": 5,
+          "courseLTNum": 0,
+          "courseTeaNum": 1,
+          "teacherList": [{"id": 6423,"name": "余莉（大）"}]
+        }
+      ]
+    },
+    {
+      "classID": 1608,
+      "className": "高三2班",
+      "course": [
+        {
+          "courseID": 1854,
+          "courseName": "语文",
+          "courseNum": 5,
+          "courseLTNum": 0,
+          "courseTeaNum": 1,
+          "teacherList": [{"id": 6429,"name": "肖述秀"}]
+        },
+        {
+          "courseID": 1855,
+          "courseName": "数学",
+          "courseNum": 5,
+          "courseLTNum": 1,
+          "courseTeaNum": 1,
+          "teacherList": [{"id": 6430,"name": "刘巧梅"}]
+        },
+		{
+          "courseID": 1856,
+          "courseName": "英语",
+          "courseNum": 5,
+          "courseLTNum": 0,
+          "courseTeaNum": 1,
+          "teacherList": [{"id": 6431,"name": "徐胜"}]
+        },
+        {
+          "courseID": 1857,
+          "courseName": "物理",
+          "courseNum": 5,
+          "courseLTNum": 0,
+          "courseTeaNum": 1,
+          "teacherList": [{"id": 6432,"name": "雷勋梅"}]
+        },
+		{
+          "courseID": 1858,
+          "courseName": "化学",
+          "courseNum": 5,
+          "courseLTNum": 0,
+          "courseTeaNum": 1,
+          "teacherList": [{"id": 6433,"name": "熊全安"}]
+        }
+      ]
+    }
+  ],
+  "noClassTime": [
+    {
+      "type": "Class",
+      "id": 1607,
+      "time": [
+        {
+          "day": 1,
+          "avbTime": [ 1, 0, 1, 1, 1, 1 ]
+        },
+        {
+          "day": 2,
+          "avbTime": [ 1, 1, 0, 1, 1, 1 ]
+        }
+      ]
+    },
+    {
+      "type": "Teacher",
+      "id": 6431,
+      "concentrated": 1,
+      "time": [
+        {
+          "day": 1,
+          "avbTime": [ 1, 1, 1, 1, 1, 0 ]
+        },
+        {
+          "day": 2,
+          "avbTime": [ 1, 1, 1, 1, 0, 1 ]
+        }
+      ]
+    },
+    {
+      "type": "Course",
+      "id": 1854,
+      "priority": 1,
+      "priorityCrs": 3,
+      "time": [
+        {
+          "day": 1,
+          "avbTime": [ 0, 1, 1, 1, 1, 1 ]
+        },
+        {
+          "day": 2,
+          "avbTime": [ 0, 1, 1, 1, 1, 1 ]
+        }
+      ]
+    }
+  ],
+  "HBKNum": 0,
+  "HBK": [
+    {
+      "HBKC": 1854,
+      "HBKClassNum": 2,
+      "HBKClass": [ 1607, 1608 ]
+    }
+  ],
+  "YPK": [
+    {
+      "classID": 1608,
+      "time": [
+        {
+          "day": 1,
+          "YPKTime": [ 0, 0, 0, 1854, 0, 0]
+        },
+        {
+          "day": 2,
+          "YPKTime": [ 0, 0, 0,1855, 1856, 1857 ]
+        }
+      ]
+    }
+  ]
+
+
+}

@@ -1,0 +1,39 @@
+{
+    "Course_quality":"97.85553410553409%",
+    "Quality_description":"在排课规则中，班级不排课时间、课程不排课时间、教师不排课时间、合班课、连堂课限制、日课时限制、周课时分布、连堂课教案平齐、非连堂课教案平齐 等规则的满足率为100%,优先排课限制、集中授课等规则仍有不满足",
+    "LTK_limit":{
+       "Rule_satisfaction_rate":"100.0%",
+       "Unsatisfaction":[],
+       "Problematic_section":[]
+    },
+    "Day_Crs_limit":{
+       "Rule_satisfaction_rate":"100.0%",
+       "Unsatisfaction":[],
+       "Problematic_section":[]
+    },
+    "Priority_class_limit":{
+       "Rule_satisfaction_rate":"98.73873873873873%",
+       "Unsatisfaction":["2班英语课星期四存在没有满足优先排的情况","7班语文课星期一存在没有满足优先排的情况","8班数学课星期三存在没有满足优先排的情况","9班英语课星期一存在没有满足优先排的情况","11班英语课星期一存在没有满足优先排的情况","12班语文课星期一存在没有满足优先排的情况","13班英语课星期一存在没有满足优先排的情况"],
+       "Problematic_section":[{"Class":2,"Day":4,"Crs":5},{"Class":7,"Day":1,"Crs":5},{"Class":8,"Day":3,"Crs":5},{"Class":9,"Day":1,"Crs":5},{"Class":11,"Day":1,"Crs":5},{"Class":12,"Day":1,"Crs":5},{"Class":13,"Day":1,"Crs":5}]
+    },
+    "Weak_Crs_distributed":{
+       "Rule_satisfaction_rate":"100.0%",
+       "Unsatisfaction":[],
+       "Problematic_section":[]
+    },
+    "LTK_JP":{
+       "Rule_satisfaction_rate":"100.0%",
+       "Unsatisfaction":[],
+       "Problematic_section":[]
+    },
+    "FLTK_JP":{
+       "Rule_satisfaction_rate":"100.0%",
+       "Unsatisfaction":[],
+       "Problematic_section":[]
+    },
+    "JZSK":{
+       "Rule_satisfaction_rate":"86.25%",
+       "Unsatisfaction":["钱宝华星期一存在授课不集中的情况","王英杰星期一、星期三、星期四存在授课不集中的情况","江启中星期三、星期四存在授课不集中的情况","朱一明星期一存在授课不集中的情况","李凯星期一、星期三存在授课不集中的情况"," 刘磊星期四存在授课不集中的情况","何良峰星期一存在授课不集中的情况","朱玲星期一、星期四存在授课不集中的情况","吴克进星期一存在授课不集中的情况","孙华斌星期一、星期二存在授课不集中的情况","方明星期一存在授课不集中的情况","徐媛媛星期一存在授课不集中的情况","鲍军星期一存在授课不集中的情况","张永威星期一存在授课不集中的情况","王三改星期一、星期四、星期五存在授课不集中的情况","陈亚娜星期一、星期三存在授课不集中的情况","张五九星期四存在授课不集中的情况","舒兴庆星期二存在授课不集中的情况","李东胜星期一存在授课不集中的情况","陈五杰星期四存在授课不集中的情况","胡桂荣星期三存在授课不集中的情况","凌虹星期五存在授课不集中的情况","张锐星期一、星期二存在授课不集中的情况",],
+       "Problematic_section":[]
+    }
+}

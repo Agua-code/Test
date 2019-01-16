@@ -1,0 +1,411 @@
+{
+  "ctwoCrs": [333],
+  "weakDay": 5,
+  "ctwo": 1,
+  "noClassTimeInfo": [{
+    "timeInfo": [{
+      "day": 1,
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1, 1]
+    }, {
+      "day": 2,
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1, 1]
+    }, {
+      "day": 3,
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1, 1]
+    }, {
+      "day": 4,
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1, 1]
+    }, {
+      "day": 5,
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1, 1]
+    }],
+    "concentrated": 0,
+    "id": 1,
+    "type": "Class"
+  }, {
+    "timeInfo": [{
+      "day": 1,
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1, 1]
+    }, {
+      "day": 2,
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1, 1]
+    }, {
+      "day": 3,
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1, 1]
+    }, {
+      "day": 4,
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1, 1]
+    }, {
+      "day": 5,
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1, 1]
+    }],
+    "concentrated": 0,
+    "id": 333,
+    "type": "Course"
+  }, {
+    "timeInfo": [{
+      "day": 1,
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1, 1]
+    }, {
+      "day": 2,
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1, 1]
+    }, {
+      "day": 3,
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1, 1]
+    }, {
+      "day": 4,
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1, 1]
+    }, {
+      "day": 5,
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1, 1]
+    }],
+    "concentrated": 0,
+    "id": 335,
+    "type": "Course"
+  }, {
+    "timeInfo": [{
+      "day": 1,
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1, 1]
+    }, {
+      "day": 2,
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1, 1]
+    }, {
+      "day": 3,
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1, 1]
+    }, {
+      "day": 4,
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1, 1]
+    }, {
+      "day": 5,
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1, 1]
+    }],
+    "concentrated": 0,
+    "id": 336,
+    "type": "Course"
+  }, {
+    "timeInfo": [{
+      "day": 1,
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1, 1]
+    }, {
+      "day": 2,
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1, 1]
+    }, {
+      "day": 3,
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1, 1]
+    }, {
+      "day": 4,
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1, 1]
+    }, {
+      "day": 5,
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1, 1]
+    }],
+    "concentrated": 0,
+    "id": 337,
+    "type": "Course"
+  }, {
+    "timeInfo": [{
+      "day": 1,
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1, 1]
+    }, {
+      "day": 2,
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1, 1]
+    }, {
+      "day": 3,
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1, 1]
+    }, {
+      "day": 4,
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1, 1]
+    }, {
+      "day": 5,
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1, 1]
+    }],
+    "concentrated": 0,
+    "id": 338,
+    "type": "Course"
+  }, {
+    "timeInfo": [{
+      "day": 1,
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1, 1]
+    }, {
+      "day": 2,
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1, 1]
+    }, {
+      "day": 3,
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1, 1]
+    }, {
+      "day": 4,
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1, 1]
+    }, {
+      "day": 5,
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1, 1]
+    }],
+    "concentrated": 0,
+    "id": 339,
+    "type": "Course"
+  }, {
+    "timeInfo": [{
+      "day": 1,
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1, 1]
+    }, {
+      "day": 2,
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1, 1]
+    }, {
+      "day": 3,
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1, 1]
+    }, {
+      "day": 4,
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1, 1]
+    }, {
+      "day": 5,
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1, 1]
+    }],
+    "concentrated": 0,
+    "id": 340,
+    "type": "Course"
+  }, {
+    "timeInfo": [{
+      "day": 1,
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1, 1]
+    }, {
+      "day": 2,
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1, 1]
+    }, {
+      "day": 3,
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1, 1]
+    }, {
+      "day": 4,
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1, 1]
+    }, {
+      "day": 5,
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1, 1]
+    }],
+    "concentrated": 0,
+    "id": 341,
+    "type": "Course"
+  }, {
+    "timeInfo": [{
+      "day": 1,
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1, 1]
+    }, {
+      "day": 2,
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1, 1]
+    }, {
+      "day": 3,
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1, 1]
+    }, {
+      "day": 4,
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1, 1]
+    }, {
+      "day": 5,
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1, 1]
+    }],
+    "concentrated": 0,
+    "id": 342,
+    "type": "Course"
+  }],
+  "hBKNum": 0,
+  "crsNum": 9,
+  "classNum": 1,
+  "ctwoTime": 5,
+  "stuData": [{
+    "stuID": 40479,
+    "stuClass": 1,
+    "stuCourseList": [{
+      "stuCourseType": 1,
+      "stuTargetCourse": 337,
+      "stuCourseTime": 4,
+      "stuTargetClass": 1
+    }, {
+      "stuCourseType": 1,
+      "stuTargetCourse": 338,
+      "stuCourseTime": 1,
+      "stuTargetClass": 1
+    }, {
+      "stuCourseType": 1,
+      "stuTargetCourse": 339,
+      "stuCourseTime": 3,
+      "stuTargetClass": 1
+    }, {
+      "stuCourseType": 1,
+      "stuTargetCourse": 340,
+      "stuCourseTime": 5,
+      "stuTargetClass": 1
+    }, {
+      "stuCourseType": 1,
+      "stuTargetCourse": 341,
+      "stuCourseTime": 6,
+      "stuTargetClass": 1
+    }, {
+      "stuCourseType": 1,
+      "stuTargetCourse": 342,
+      "stuCourseTime": 2,
+      "stuTargetClass": 1
+    }, {
+      "stuCourseType": 0,
+      "stuTargetCourse": 333,
+      "stuCourseTime": 0,
+      "stuTargetClass": 1
+    }, {
+      "stuCourseType": 0,
+      "stuTargetCourse": 335,
+      "stuCourseTime": 0,
+      "stuTargetClass": 1
+    }, {
+      "stuCourseType": 0,
+      "stuTargetCourse": 336,
+      "stuCourseTime": 0,
+      "stuTargetClass": 1
+    }],
+    "stuName": "西汉嘎嘎"
+  }],
+  "classCrsInfo": [{
+    "classID": 1,
+    "courseInfoList": [{
+      "courseType": 1,
+      "courseLTNum": 0,
+      "courseNum": 3,
+      "courseTeaNum": 1,
+      "courseTeaID": 7123,
+      "courseID": 338,
+      "courseTime": 1
+    }, {
+      "courseType": 1,
+      "courseLTNum": 0,
+      "courseNum": 3,
+      "courseTeaNum": 1,
+      "courseTeaID": 7128,
+      "courseID": 342,
+      "courseTime": 2
+    }, {
+      "courseType": 1,
+      "courseLTNum": 0,
+      "courseNum": 3,
+      "courseTeaNum": 1,
+      "courseTeaID": 7124,
+      "courseID": 339,
+      "courseTime": 3
+    }, {
+      "courseType": 1,
+      "courseLTNum": 0,
+      "courseNum": 3,
+      "courseTeaNum": 1,
+      "courseTeaID": 7122,
+      "courseID": 337,
+      "courseTime": 4
+    }, {
+      "courseType": 1,
+      "courseLTNum": 0,
+      "courseNum": 3,
+      "courseTeaNum": 1,
+      "courseTeaID": 7125,
+      "courseID": 340,
+      "courseTime": 5
+    }, {
+      "courseType": 1,
+      "courseLTNum": 0,
+      "courseNum": 3,
+      "courseTeaNum": 1,
+      "courseTeaID": 7126,
+      "courseID": 341,
+      "courseTime": 6
+    }, {
+      "courseType": 0,
+      "courseLTNum": 0,
+      "courseNum": 6,
+      "courseTeaNum": 1,
+      "courseTeaID": 7119,
+      "courseID": 333,
+      "courseTime": 0
+    }, {
+      "courseType": 0,
+      "courseLTNum": 0,
+      "courseNum": 6,
+      "courseTeaNum": 1,
+      "courseTeaID": 7120,
+      "courseID": 335,
+      "courseTime": 0
+    }, {
+      "courseType": 0,
+      "courseLTNum": 0,
+      "courseNum": 6,
+      "courseTeaNum": 1,
+      "courseTeaID": 7121,
+      "courseID": 336,
+      "courseTime": 0
+    }]
+  }],
+  "classID": [1],
+  "ypkInfo": [{
+    "ypkDataInfo": [{
+      "ypkData": [0, 0, 0, 0, 0, 0, 0, 0, 0],
+      "day": 1
+    }, {
+      "ypkData": [0, 0, 0, 0, 0, 0, 0, 0, 0],
+      "day": 2
+    }, {
+      "ypkData": [0, 0, 0, 0, 0, 0, 0, 0, 0],
+      "day": 3
+    }, {
+      "ypkData": [0, 0, 0, 0, 0, 0, 0, 0, 0],
+      "day": 4
+    }, {
+      "ypkData": [0, 0, 0, 0, 0, 0, 0, 0, 0],
+      "day": 5
+    }],
+    "classID": 1
+  }],
+  "hbkInfo": [],
+  "teaNum": 11,
+  "teaID": [7022, 7124, 7121, 7119, 7123, 7125, 7126, 7128, 7127, 7120, 7122],
+  "dayCrs": 9,
+  "xkList": [{
+    "xkClass": [1],
+    "xkTime": 1
+  }, {
+    "xkClass": [1],
+    "xkTime": 2
+  }, {
+    "xkClass": [1],
+    "xkTime": 3
+  }, {
+    "xkClass": [1],
+    "xkTime": 4
+  }, {
+    "xkClass": [1],
+    "xkTime": 5
+  }, {
+    "xkClass": [1],
+    "xkTime": 6
+  }],
+  "crsListInfo": [{
+    "courseName": "政治",
+    "courseID": 338
+  }, {
+    "courseName": "历史",
+    "courseID": 342
+  }, {
+    "courseName": "物理",
+    "courseID": 339
+  }, {
+    "courseName": "生物",
+    "courseID": 337
+  }, {
+    "courseName": "地理",
+    "courseID": 340
+  }, {
+    "courseName": "化学",
+    "courseID": 341
+  }, {
+    "courseName": "语文",
+    "courseID": 333
+  }, {
+    "courseName": "数学",
+    "courseID": 335
+  }, {
+    "courseName": "英语",
+    "courseID": 336
+  }],
+  "dayCrsAf": 4,
+  "dayCrsMr": 5,
+  "xkNum": 6
+}

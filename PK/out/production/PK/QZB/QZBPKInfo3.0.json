@@ -1,0 +1,1176 @@
+{
+  "classCrsInfo": [{
+    "classID": 1655,
+    "courseInfoList": [{
+      "courseID": 1990,
+      "courseLTNum": 0,
+      "courseNum": 1,
+      "courseTeaID": 1120,
+      "courseTeaNum": 1,
+      "courseTime":0,
+      "courseType":0
+    }, {
+      "courseID": 1976,
+      "courseLTNum": 0,
+      "courseNum": 5,
+      "courseTeaID": 1101,
+      "courseTeaNum": 1,
+      "courseTime":0,
+      "courseType":0
+    }, {
+      "courseID": 1975,
+      "courseLTNum": 0,
+      "courseNum": 5,
+      "courseTeaID": 1102,
+      "courseTeaNum": 1,
+      "courseTime":0,
+      "courseType":0
+    }, {
+      "courseID": 1974,
+      "courseLTNum": 0,
+      "courseNum": 5,
+      "courseTeaID": 1103,
+      "courseTeaNum": 1,
+      "courseTime":0,
+      "courseType":0
+    }, {
+      "courseID": 1979,
+      "courseLTNum": 0,
+      "courseNum": 4,
+      "courseTeaID": 1104,
+      "courseTeaNum": 1,
+      "courseTime":0,
+      "courseType":0
+    }, {
+      "courseID": 1977,
+      "courseLTNum": 0,
+      "courseNum": 4,
+      "courseTeaID": 1105,
+      "courseTeaNum": 1,
+      "courseTime":0,
+      "courseType":0
+    }, {
+      "courseID": 1978,
+      "courseLTNum": 0,
+      "courseNum": 4,
+      "courseTeaID": 1106,
+      "courseTeaNum": 1,
+      "courseTime":1,
+      "courseType":1
+    }, {
+      "courseID": 1986,
+      "courseLTNum": 0,
+      "courseNum": 4,
+      "courseTeaID": 1107,
+      "courseTeaNum": 1,
+      "courseTime":0,
+      "courseType":0
+    }, {
+      "courseID": 1987,
+      "courseLTNum": 0,
+      "courseNum": 4,
+      "courseTeaID": 1108,
+      "courseTeaNum": 1,
+      "courseTime":0,
+      "courseType":0
+    }, {
+      "courseID": 1988,
+      "courseLTNum": 0,
+      "courseNum": 4,
+      "courseTeaID": 1109,
+      "courseTeaNum": 1,
+      "courseTime":0,
+      "courseType":0
+    }]
+  }, {
+    "classID": 1656,
+    "courseInfoList": [{
+      "courseID": 1975,
+      "courseLTNum": 0,
+      "courseNum": 5,
+      "courseTeaID": 1110,
+      "courseTeaNum": 1,
+      "courseTime":0,
+      "courseType":0
+    }, {
+      "courseID": 1976,
+      "courseLTNum": 0,
+      "courseNum": 5,
+      "courseTeaID": 1101,
+      "courseTeaNum": 1,
+      "courseTime":0,
+      "courseType":0
+    }, {
+      "courseID": 1990,
+      "courseLTNum": 0,
+      "courseNum": 1,
+      "courseTeaID": 1111,
+      "courseTeaNum": 1,
+      "courseTime":0,
+      "courseType":0
+    }, {
+      "courseID": 1979,
+      "courseLTNum": 0,
+      "courseNum": 4,
+      "courseTeaID": 1112,
+      "courseTeaNum": 1,
+      "courseTime":2,
+      "courseType":1
+    }, {
+      "courseID": 1974,
+      "courseLTNum": 0,
+      "courseNum": 5,
+      "courseTeaID": 1113,
+      "courseTeaNum": 1,
+      "courseTime":0,
+      "courseType":0
+    }, {
+      "courseID": 1977,
+      "courseLTNum": 0,
+      "courseNum": 4,
+      "courseTeaID": 1114,
+      "courseTeaNum": 1,
+      "courseTime":0,
+      "courseType":0
+    }, {
+      "courseID": 1978,
+      "courseLTNum": 0,
+      "courseNum": 4,
+      "courseTeaID": 1115,
+      "courseTeaNum": 1,
+      "courseTime":1,
+      "courseType":1
+    }, {
+      "courseID": 1986,
+      "courseLTNum": 0,
+      "courseNum": 4,
+      "courseTeaID": 1116,
+      "courseTeaNum": 1,
+      "courseTime":0,
+      "courseType":0
+    }, {
+      "courseID": 1987,
+      "courseLTNum": 0,
+      "courseNum": 4,
+      "courseTeaID": 1117,
+      "courseTeaNum": 1,
+      "courseTime":0,
+      "courseType":0
+    }, {
+      "courseID": 1988,
+      "courseLTNum": 0,
+      "courseNum": 4,
+      "courseTeaID": 1118,
+      "courseTeaNum": 1,
+      "courseTime":0,
+      "courseType":0
+    }]
+  }, {
+    "classID": 1657,
+    "courseInfoList": [{
+      "courseID": 1974,
+      "courseLTNum": 0,
+      "courseNum": 5,
+      "courseTeaID": 1119,
+      "courseTeaNum": 1,
+      "courseTime":0,
+      "courseType":0
+    }, {
+      "courseID": 1978,
+      "courseLTNum": 0,
+      "courseNum": 4,
+      "courseTeaID": 1120,
+      "courseTeaNum": 1,
+      "courseTime":0,
+      "courseType":0
+    }, {
+      "courseID": 1976,
+      "courseLTNum": 0,
+      "courseNum": 5,
+      "courseTeaID": 1121,
+      "courseTeaNum": 1,
+      "courseTime":0,
+      "courseType":0
+    }, {
+      "courseID": 1990,
+      "courseLTNum": 0,
+      "courseNum": 1,
+      "courseTeaID": 1121,
+      "courseTeaNum": 1,
+      "courseTime":0,
+      "courseType":0
+    }, {
+      "courseID": 1975,
+      "courseLTNum": 0,
+      "courseNum": 5,
+      "courseTeaID": 1122,
+      "courseTeaNum": 1,
+      "courseTime":0,
+      "courseType":0
+    }, {
+      "courseID": 1980,
+      "courseLTNum": 0,
+      "courseNum": 4,
+      "courseTeaID": 1123,
+      "courseTeaNum": 1,
+      "courseTime":2,
+      "courseType":1
+    }, {
+      "courseID": 1977,
+      "courseLTNum": 0,
+      "courseNum": 4,
+      "courseTeaID": 1124,
+      "courseTeaNum": 1,
+      "courseTime":1,
+      "courseType":1
+    }, {
+      "courseID": 1985,
+      "courseLTNum": 0,
+      "courseNum": 4,
+      "courseTeaID": 1125,
+      "courseTeaNum": 1,
+      "courseTime":0,
+      "courseType":0
+    }, {
+      "courseID": 1987,
+      "courseLTNum": 0,
+      "courseNum": 4,
+      "courseTeaID": 1126,
+      "courseTeaNum": 1,
+      "courseTime":0,
+      "courseType":0
+    }, {
+      "courseID": 1988,
+      "courseLTNum": 0,
+      "courseNum": 4,
+      "courseTeaID": 1127,
+      "courseTeaNum": 1,
+      "courseTime":0,
+      "courseType":0
+    }]
+  }, {
+    "classID": 1658,
+    "courseInfoList": [{
+      "courseID": 1981,
+      "courseLTNum": 0,
+      "courseNum": 4,
+      "courseTeaID": 1128,
+      "courseTeaNum": 1,
+      "courseTime":0,
+      "courseType":0
+    }, {
+      "courseID": 1976,
+      "courseLTNum": 0,
+      "courseNum": 5,
+      "courseTeaID": 1129,
+      "courseTeaNum": 1,
+      "courseTime":0,
+      "courseType":0
+    }, {
+      "courseID": 1990,
+      "courseLTNum": 0,
+      "courseNum": 1,
+      "courseTeaID": 1130,
+      "courseTeaNum": 1,
+      "courseTime":0,
+      "courseType":0
+    }, {
+      "courseID": 1975,
+      "courseLTNum": 0,
+      "courseNum": 5,
+      "courseTeaID": 1131,
+      "courseTeaNum": 1,
+      "courseTime":0,
+      "courseType":0
+    }, {
+      "courseID": 1974,
+      "courseLTNum": 0,
+      "courseNum": 5,
+      "courseTeaID": 1132,
+      "courseTeaNum": 1,
+      "courseTime":0,
+      "courseType":0
+    }, {
+      "courseID": 1977,
+      "courseLTNum": 0,
+      "courseNum": 4,
+      "courseTeaID": 1133,
+      "courseTeaNum": 1,
+      "courseTime":2,
+      "courseType":1
+    }, {
+      "courseID": 1979,
+      "courseLTNum": 0,
+      "courseNum": 4,
+      "courseTeaID": 1134,
+      "courseTeaNum": 1,
+      "courseTime":1,
+      "courseType":1
+    }, {
+      "courseID": 1984,
+      "courseLTNum": 0,
+      "courseNum": 4,
+      "courseTeaID": 1135,
+      "courseTeaNum": 1,
+      "courseTime":0,
+      "courseType":0
+    }, {
+      "courseID": 1986,
+      "courseLTNum": 0,
+      "courseNum": 4,
+      "courseTeaID": 1136,
+      "courseTeaNum": 1,
+      "courseTime":0,
+      "courseType":0
+    }, {
+      "courseID": 1988,
+      "courseLTNum": 0,
+      "courseNum": 4,
+      "courseTeaID": 1137,
+      "courseTeaNum": 1,
+      "courseTime":0,
+      "courseType":0
+    }]
+  }],
+  "classID": [1655, 1656, 1657, 1658],
+  "classNum": 4,
+  "crsListInfo": [{
+    "courseID": 1974,
+    "courseName": "语文"
+  }, {
+    "courseID": 1975,
+    "courseName": "数学"
+  }, {
+    "courseID": 1976,
+    "courseName": "英语"
+  }, {
+    "courseID": 1977,
+    "courseName": "物理"
+  }, {
+    "courseID": 1978,
+    "courseName": "化学"
+  }, {
+    "courseID": 1979,
+    "courseName": "生物"
+  }, {
+    "courseID": 1980,
+    "courseName": "政治"
+  }, {
+    "courseID": 1981,
+    "courseName": "历史"
+  }, {
+    "courseID": 1982,
+    "courseName": "地理"
+  }, {
+    "courseID": 1983,
+    "courseName": "业物"
+  }, {
+    "courseID": 1984,
+    "courseName": "业化"
+  }, {
+    "courseID": 1985,
+    "courseName": "业生"
+  }, {
+    "courseID": 1986,
+    "courseName": "业政"
+  }, {
+    "courseID": 1987,
+    "courseName": "业历"
+  }, {
+    "courseID": 1988,
+    "courseName": "业地"
+  }, {
+    "courseID": 1989,
+    "courseName": "自习"
+  }, {
+    "courseID": 1990,
+    "courseName": "班会"
+  }],
+  "crsNum": 17,
+  "ctwo": 1,
+  "ctwoCrs": [1974, 1979, 1975, 1976, 1980],
+  "ctwoTime": 5,
+  "dayCrs": 8,
+  "dayCrsAf": 4,
+  "dayCrsMr": 4,
+  "hBKNum": 0,
+  "hbkInfo": [{
+    "hbkClassInfo": [1655, 1656],
+    "hbkClassNum": 2,
+    "hbkcID": 1976
+  }],
+  "noClassTimeInfo": [{
+    "concentrated": 0,
+    "id": 1655,
+    "timeInfo": [{
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 1
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 2
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 3
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 4
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 5
+    }],
+    "type": "Class"
+  }, {
+    "concentrated": 0,
+    "id": 1656,
+    "timeInfo": [{
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 1
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 2
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 3
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 4
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 5
+    }],
+    "type": "Class"
+  }, {
+    "concentrated": 0,
+    "id": 1657,
+    "timeInfo": [{
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 1
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 2
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 3
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 4
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 5
+    }],
+    "type": "Class"
+  }, {
+    "concentrated": 0,
+    "id": 1658,
+    "timeInfo": [{
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 1
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 2
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 3
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 4
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 5
+    }],
+    "type": "Class"
+  }, {
+    "concentrated": 0,
+    "id": 1974,
+    "timeInfo": [{
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 1
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 2
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 3
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 4
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 5
+    }],
+    "type": "Course"
+  }, {
+    "concentrated": 0,
+    "id": 1975,
+    "timeInfo": [{
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 1
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 2
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 3
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 4
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 5
+    }],
+    "type": "Course"
+  }, {
+    "concentrated": 0,
+    "id": 1976,
+    "timeInfo": [{
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 1
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 2
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 3
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 4
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 5
+    }],
+    "type": "Course"
+  }, {
+    "concentrated": 0,
+    "id": 1977,
+    "timeInfo": [{
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 1
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 2
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 3
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 4
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 5
+    }],
+    "type": "Course"
+  }, {
+    "concentrated": 0,
+    "id": 1978,
+    "timeInfo": [{
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 1
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 2
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 3
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 4
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 5
+    }],
+    "type": "Course"
+  }, {
+    "concentrated": 0,
+    "id": 1979,
+    "timeInfo": [{
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 1
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 2
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 3
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 4
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 5
+    }],
+    "type": "Course"
+  }, {
+    "concentrated": 0,
+    "id": 1980,
+    "timeInfo": [{
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 1
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 2
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 3
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 4
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 5
+    }],
+    "type": "Course"
+  }, {
+    "concentrated": 0,
+    "id": 1981,
+    "timeInfo": [{
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 1
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 2
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 3
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 4
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 5
+    }],
+    "type": "Course"
+  }, {
+    "concentrated": 0,
+    "id": 1982,
+    "timeInfo": [{
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 1
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 2
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 3
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 4
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 5
+    }],
+    "type": "Course"
+  }, {
+    "concentrated": 0,
+    "id": 1983,
+    "timeInfo": [{
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 1
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 2
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 3
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 4
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 5
+    }],
+    "type": "Course"
+  }, {
+    "concentrated": 0,
+    "id": 1984,
+    "timeInfo": [{
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 1
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 2
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 3
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 4
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 5
+    }],
+    "type": "Course"
+  }, {
+    "concentrated": 0,
+    "id": 1985,
+    "timeInfo": [{
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 1
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 2
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 3
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 4
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 5
+    }],
+    "type": "Course"
+  }],
+  "teaID": [1119, 1106, 1115, 1128, 1120, 1124, 1129, 1134, 1110, 1127, 1126, 1125, 1109, 1107, 1108, 1121, 1101, 1130, 1111, 1102, 1122, 1103, 1112, 1116, 1117, 1118,  1131, 1104, 1113, 1135, 1136, 1123, 1132, 1133, 1114, 1105, 1137],
+  "teaNum": 73,
+  "weakDay": 5,
+  "ypkInfo": [
+    {
+      "classID": 1655,
+      "ypkDataInfo": [
+        {
+          "day": 1,
+          "ypkData": [ 0, 0, 0, 0, 0, 0, 0, 0 ]
+        },
+        {
+          "day": 2,
+          "ypkData": [ 0, 0, 0, 0, 0, 0, 0, 0 ]
+        },
+        {
+          "day": 3,
+          "ypkData": [ 0, 0, 0, 0, 0, 0, 0, 0 ]
+        },
+        {
+          "day": 4,
+          "ypkData": [ 0, 0, 0, 0, 0, 0, 0, 0 ]
+        },
+        {
+          "day": 5,
+          "ypkData": [ 0, 0, 0, 0, 0, 0, 0, 0 ]
+        }
+      ]
+    },
+    {
+      "classID": 1656,
+      "ypkDataInfo": [
+        {
+          "day": 1,
+          "ypkData": [ 0, 0, 0, 0, 0, 0, 0, 0 ]
+        },
+        {
+          "day": 2,
+          "ypkData": [ 0, 0, 0, 0, 0, 0, 0, 0 ]
+        },
+        {
+          "day": 3,
+          "ypkData": [ 0, 0, 0, 0, 0, 0, 0, 0 ]
+        },
+        {
+          "day": 4,
+          "ypkData": [ 0, 0, 0, 0, 0, 0, 0, 0 ]
+        },
+        {
+          "day": 5,
+          "ypkData": [ 0, 0, 0, 0, 0, 0, 0, 0 ]
+        }
+      ]
+    },
+    {
+      "classID": 1657,
+      "ypkDataInfo": [
+        {
+          "day": 1,
+          "ypkData": [ 0, 0, 0, 0, 0, 0, 0, 0 ]
+        },
+        {
+          "day": 2,
+          "ypkData": [ 0, 0, 0, 0, 0, 0, 0, 0 ]
+        },
+        {
+          "day": 3,
+          "ypkData": [ 0, 0, 0, 0, 0, 0, 0, 0 ]
+        },
+        {
+          "day": 4,
+          "ypkData": [ 0, 0, 0, 0, 0, 0, 0, 0 ]
+        },
+        {
+          "day": 5,
+          "ypkData": [ 0, 0, 0, 0, 0, 0, 0, 0 ]
+        }
+      ]
+    },
+    {
+      "classID": 1658,
+      "ypkDataInfo": [
+        {
+          "day": 1,
+          "ypkData": [ 0, 0, 0, 0, 0, 0, 0, 0 ]
+        },
+        {
+          "day": 2,
+          "ypkData": [ 0, 0, 0, 0, 0, 0, 0, 0 ]
+        },
+        {
+          "day": 3,
+          "ypkData": [ 0, 0, 0, 0, 0, 0, 0, 0 ]
+        },
+        {
+          "day": 4,
+          "ypkData": [ 0, 0, 0, 0, 0, 0, 0, 0 ]
+        },
+        {
+          "day": 5,
+          "ypkData": [ 0, 0, 0, 0, 0, 0, 0, 0 ]
+        }
+      ]
+    }
+  ],
+  "xKNum":2,
+  "xkList": [
+    {
+      "xkTime": 1,
+      "xkClass": [ 1655, 1656, 1657, 1658 ]
+    },
+    {
+      "xkTime": 2,
+      "xkClass": [ 1656, 1657, 1658 ]
+    }
+  ],
+  "stuData": [
+    {
+      "stuName": "张三",
+      "stuID": 1001,
+      "stuClass": 1655,
+      "stuCourseList": [
+        {
+          "stuTargetCourse": 1974,
+          "stuCourseTime": 0,
+          "stuCourseType": 0,
+          "stuTargetClass": 1655
+        },
+        {
+          "stuTargetCourse": 1975,
+          "stuCourseTime": 0,
+          "stuCourseType": 0,
+          "stuTargetClass": 1655
+        },
+        {
+          "stuTargetCourse": 1976,
+          "stuCourseTime": 0,
+          "stuCourseType": 0,
+          "stuTargetClass": 1655
+        },
+        {
+          "stuTargetCourse": 1977,
+          "stuCourseTime": 0,
+          "stuCourseType": 0,
+          "stuTargetClass": 1655
+        },
+        {
+          "stuTargetCourse": 1979,
+          "stuCourseTime": 0,
+          "stuCourseType": 0,
+          "stuTargetClass": 1655
+        },
+        {
+          "stuTargetCourse": 1990,
+          "stuCourseTime": 0,
+          "stuCourseType": 0,
+          "stuTargetClass": 1655
+        },
+        {
+          "stuTargetCourse": 1978,
+          "stuCourseTime": 1,
+          "stuCourseType": 1,
+          "stuTargetClass": 1655
+        },
+        {
+          "stuTargetCourse": 1986,
+          "stuCourseTime": 0,
+          "stuCourseType": 0,
+          "stuTargetClass": 1655
+        },
+        {
+          "stuTargetCourse": 1987,
+          "stuCourseTime": 0,
+          "stuCourseType": 0,
+          "stuTargetClass": 1655
+        },
+        {
+          "stuTargetCourse": 1988,
+          "stuCourseTime": 0,
+          "stuCourseType": 0,
+          "stuTargetClass": 1655
+        }
+      ]
+    },
+    {
+      "stuName": "李四",
+      "stuID": 1002,
+      "stuClass": 1656,
+      "stuCourseList": [
+        {
+          "stuTargetCourse": 1974,
+          "stuCourseTime": 0,
+          "stuCourseType": 0,
+          "stuTargetClass": 1656
+        },
+        {
+          "stuTargetCourse": 1975,
+          "stuCourseTime": 0,
+          "stuCourseType": 0,
+          "stuTargetClass": 1656
+        },
+        {
+          "stuTargetCourse": 1976,
+          "stuCourseTime": 0,
+          "stuCourseType": 0,
+          "stuTargetClass": 1656
+        },
+        {
+          "stuTargetCourse": 1977,
+          "stuCourseTime": 0,
+          "stuCourseType": 0,
+          "stuTargetClass": 1656
+        },
+        {
+          "stuTargetCourse": 1990,
+          "stuCourseTime": 0,
+          "stuCourseType": 0,
+          "stuTargetClass": 1656
+        },
+        {
+          "stuTargetCourse": 1979,
+          "stuCourseTime": 2,
+          "stuCourseType": 1,
+          "stuTargetClass": 1656
+        },
+        {
+          "stuTargetCourse": 1978,
+          "stuCourseTime": 1,
+          "stuCourseType": 1,
+          "stuTargetClass": 1656
+        },
+        {
+          "stuTargetCourse": 1986,
+          "stuCourseTime": 0,
+          "stuCourseType": 0,
+          "stuTargetClass": 1656
+        },
+        {
+          "stuTargetCourse": 1987,
+          "stuCourseTime": 0,
+          "stuCourseType": 0,
+          "stuTargetClass": 1656
+        },
+        {
+          "stuTargetCourse": 1988,
+          "stuCourseTime": 0,
+          "stuCourseType": 0,
+          "stuTargetClass": 1656
+        }
+      ]
+    },
+    {
+      "stuName": "王五",
+      "stuID": 1003,
+      "stuClass": 1657,
+      "stuCourseList": [
+        {
+          "stuTargetCourse": 1974,
+          "stuCourseTime": 0,
+          "stuCourseType": 0,
+          "stuTargetClass": 1657
+        },
+        {
+          "stuTargetCourse": 1975,
+          "stuCourseTime": 0,
+          "stuCourseType": 0,
+          "stuTargetClass": 1657
+        },
+        {
+          "stuTargetCourse": 1976,
+          "stuCourseTime": 0,
+          "stuCourseType": 0,
+          "stuTargetClass": 1657
+        },
+        {
+          "stuTargetCourse": 1978,
+          "stuCourseTime": 0,
+          "stuCourseType": 0,
+          "stuTargetClass": 1657
+        },
+        {
+          "stuTargetCourse": 1990,
+          "stuCourseTime": 0,
+          "stuCourseType": 0,
+          "stuTargetClass": 1657
+        },
+        {
+          "stuTargetCourse": 1977,
+          "stuCourseTime": 1,
+          "stuCourseType": 1,
+          "stuTargetClass": 1657
+        },
+        {
+          "stuTargetCourse": 1980,
+          "stuCourseTime": 2,
+          "stuCourseType": 1,
+          "stuTargetClass": 1657
+        },
+        {
+          "stuTargetCourse": 1985,
+          "stuCourseTime": 0,
+          "stuCourseType": 0,
+          "stuTargetClass": 1657
+        },
+        {
+          "stuTargetCourse": 1987,
+          "stuCourseTime": 0,
+          "stuCourseType": 0,
+          "stuTargetClass": 1657
+        },
+        {
+          "stuTargetCourse": 1988,
+          "stuCourseTime": 0,
+          "stuCourseType": 0,
+          "stuTargetClass": 1657
+        }
+      ]
+    },
+    {
+      "stuName": "朱六",
+      "stuID": 1004,
+      "stuClass": 1658,
+      "stuCourseList": [
+        {
+          "stuTargetCourse": 1974,
+          "stuCourseTime": 0,
+          "stuCourseType": 0,
+          "stuTargetClass": 1658
+        },
+        {
+          "stuTargetCourse": 1975,
+          "stuCourseTime": 0,
+          "stuCourseType": 0,
+          "stuTargetClass": 1658
+        },
+        {
+          "stuTargetCourse": 1976,
+          "stuCourseTime": 0,
+          "stuCourseType": 0,
+          "stuTargetClass": 1658
+        },
+        {
+          "stuTargetCourse": 1981,
+          "stuCourseTime": 0,
+          "stuCourseType": 0,
+          "stuTargetClass": 1658
+        },
+        {
+          "stuTargetCourse": 1990,
+          "stuCourseTime": 0,
+          "stuCourseType": 0,
+          "stuTargetClass": 1658
+        },
+        {
+          "stuTargetCourse": 1979,
+          "stuCourseTime": 1,
+          "stuCourseType": 1,
+          "stuTargetClass": 1658
+        },
+        {
+          "stuTargetCourse": 1980,
+          "stuCourseTime": 2,
+          "stuCourseType": 1,
+          "stuTargetClass": 1657
+        },
+        {
+          "stuTargetCourse": 1984,
+          "stuCourseTime": 0,
+          "stuCourseType": 0,
+          "stuTargetClass": 1658
+        },
+        {
+          "stuTargetCourse": 1986,
+          "stuCourseTime": 0,
+          "stuCourseType": 0,
+          "stuTargetClass": 1658
+        },
+        {
+          "stuTargetCourse": 1988,
+          "stuCourseTime": 0,
+          "stuCourseType": 0,
+          "stuTargetClass": 1657
+        }
+      ]
+    },
+    {
+      "stuName": "王八",
+      "stuID": 1005,
+      "stuClass": 1658,
+      "stuCourseList": [
+        {
+          "stuTargetCourse": 1974,
+          "stuCourseTime": 0,
+          "stuCourseType": 0,
+          "stuTargetClass": 1658
+        },
+        {
+          "stuTargetCourse": 1975,
+          "stuCourseTime": 0,
+          "stuCourseType": 0,
+          "stuTargetClass": 1658
+        },
+        {
+          "stuTargetCourse": 1976,
+          "stuCourseTime": 0,
+          "stuCourseType": 0,
+          "stuTargetClass": 1658
+        },
+        {
+          "stuTargetCourse": 1981,
+          "stuCourseTime": 0,
+          "stuCourseType": 0,
+          "stuTargetClass": 1658
+        },
+        {
+          "stuTargetCourse": 1990,
+          "stuCourseTime": 0,
+          "stuCourseType": 0,
+          "stuTargetClass": 1658
+        },
+        {
+          "stuTargetCourse": 1979,
+          "stuCourseTime": 1,
+          "stuCourseType": 1,
+          "stuTargetClass": 1658
+        },
+        {
+          "stuTargetCourse": 1977,
+          "stuCourseTime": 2,
+          "stuCourseType": 1,
+          "stuTargetClass": 1658
+        },
+        {
+          "stuTargetCourse": 1984,
+          "stuCourseTime": 0,
+          "stuCourseType": 0,
+          "stuTargetClass": 1658
+        },
+        {
+          "stuTargetCourse": 1986,
+          "stuCourseTime": 0,
+          "stuCourseType": 0,
+          "stuTargetClass": 1658
+        },
+        {
+          "stuTargetCourse": 1988,
+          "stuCourseTime": 0,
+          "stuCourseType": 0,
+          "stuTargetClass": 1658
+        }
+      ]
+    }
+  ]
+}

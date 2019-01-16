@@ -1,0 +1,4243 @@
+{
+  "classCrsInfo": [{
+    "classID": 3680,
+    "courseInfoList": [{
+      "courseID": 4096,
+      "courseLTNum": 0,
+      "courseNum": 5,
+      "courseTeaName": "余莉（大）",
+      "courseTeaNum": 1
+    }, {
+      "courseID": 4103,
+      "courseLTNum": 0,
+      "courseNum": 1,
+      "courseTeaName": "余莉（大）",
+      "courseTeaNum": 1
+    }, {
+      "courseID": 4094,
+      "courseLTNum": 0,
+      "courseNum": 5,
+      "courseTeaName": "孙丹",
+      "courseTeaNum": 1
+    }, {
+      "courseID": 4093,
+      "courseLTNum": 1,
+      "courseNum": 6,
+      "courseTeaName": "朱礼",
+      "courseTeaNum": 1
+    }, {
+      "courseID": 4092,
+      "courseLTNum": 0,
+      "courseNum": 5,
+      "courseTeaName": "李俊",
+      "courseTeaNum": 1
+    }, {
+      "courseID": 4097,
+      "courseLTNum": 0,
+      "courseNum": 5,
+      "courseTeaName": "纪巧玲",
+      "courseTeaNum": 1
+    }, {
+      "courseID": 4095,
+      "courseLTNum": 0,
+      "courseNum": 5,
+      "courseTeaName": "鲁小平",
+      "courseTeaNum": 1
+    }]
+  }, {
+    "classID": 3681,
+    "courseInfoList": [{
+      "courseID": 4093,
+      "courseLTNum": 1,
+      "courseNum": 6,
+      "courseTeaName": "刘巧梅",
+      "courseTeaNum": 1
+    }, {
+      "courseID": 4094,
+      "courseLTNum": 0,
+      "courseNum": 5,
+      "courseTeaName": "徐胜",
+      "courseTeaNum": 1
+    }, {
+      "courseID": 4103,
+      "courseLTNum": 0,
+      "courseNum": 1,
+      "courseTeaName": "徐胜",
+      "courseTeaNum": 1
+    }, {
+      "courseID": 4096,
+      "courseLTNum": 0,
+      "courseNum": 5,
+      "courseTeaName": "熊全安",
+      "courseTeaNum": 1
+    }, {
+      "courseID": 4092,
+      "courseLTNum": 0,
+      "courseNum": 5,
+      "courseTeaName": "肖述秀",
+      "courseTeaNum": 1
+    }, {
+      "courseID": 4095,
+      "courseLTNum": 0,
+      "courseNum": 5,
+      "courseTeaName": "雷勋梅",
+      "courseTeaNum": 1
+    }, {
+      "courseID": 4097,
+      "courseLTNum": 0,
+      "courseNum": 5,
+      "courseTeaName": "黄约明",
+      "courseTeaNum": 1
+    }]
+  }, {
+    "classID": 3682,
+    "courseInfoList": [{
+      "courseID": 4092,
+      "courseLTNum": 0,
+      "courseNum": 5,
+      "courseTeaName": "万小军",
+      "courseTeaNum": 1
+    }, {
+      "courseID": 4096,
+      "courseLTNum": 0,
+      "courseNum": 5,
+      "courseTeaName": "余莉（大）",
+      "courseTeaNum": 1
+    }, {
+      "courseID": 4094,
+      "courseLTNum": 0,
+      "courseNum": 5,
+      "courseTeaName": "夏鄂华",
+      "courseTeaNum": 1
+    }, {
+      "courseID": 4103,
+      "courseLTNum": 0,
+      "courseNum": 1,
+      "courseTeaName": "夏鄂华",
+      "courseTeaNum": 1
+    }, {
+      "courseID": 4095,
+      "courseLTNum": 0,
+      "courseNum": 5,
+      "courseTeaName": "孟桂花",
+      "courseTeaNum": 1
+    }, {
+      "courseID": 4093,
+      "courseLTNum": 1,
+      "courseNum": 6,
+      "courseTeaName": "李从德",
+      "courseTeaNum": 1
+    }, {
+      "courseID": 4097,
+      "courseLTNum": 0,
+      "courseNum": 5,
+      "courseTeaName": "赵卉",
+      "courseTeaNum": 1
+    }]
+  }, {
+    "classID": 3683,
+    "courseInfoList": [{
+      "courseID": 4099,
+      "courseLTNum": 0,
+      "courseNum": 5,
+      "courseTeaName": "余芬",
+      "courseTeaNum": 1
+    }, {
+      "courseID": 4094,
+      "courseLTNum": 0,
+      "courseNum": 5,
+      "courseTeaName": "刘亚东",
+      "courseTeaNum": 1
+    }, {
+      "courseID": 4098,
+      "courseLTNum": 0,
+      "courseNum": 5,
+      "courseTeaName": "张根祥",
+      "courseTeaNum": 1
+    }, {
+      "courseID": 4103,
+      "courseLTNum": 0,
+      "courseNum": 1,
+      "courseTeaName": "张根祥",
+      "courseTeaNum": 1
+    }, {
+      "courseID": 4093,
+      "courseLTNum": 1,
+      "courseNum": 6,
+      "courseTeaName": "王瑛",
+      "courseTeaNum": 1
+    }, {
+      "courseID": 4092,
+      "courseLTNum": 0,
+      "courseNum": 5,
+      "courseTeaName": "邓琴",
+      "courseTeaNum": 1
+    }, {
+      "courseID": 4100,
+      "courseLTNum": 0,
+      "courseNum": 5,
+      "courseTeaName": "陈伟",
+      "courseTeaNum": 1
+    }]
+  }, {
+    "classID": 3684,
+    "courseInfoList": [{
+      "courseID": 4096,
+      "courseLTNum": 0,
+      "courseNum": 5,
+      "courseTeaName": "张莉芹",
+      "courseTeaNum": 1
+    }, {
+      "courseID": 4093,
+      "courseLTNum": 1,
+      "courseNum": 6,
+      "courseTeaName": "王娜",
+      "courseTeaNum": 1
+    }, {
+      "courseID": 4092,
+      "courseLTNum": 0,
+      "courseNum": 5,
+      "courseTeaName": "罗清桥",
+      "courseTeaNum": 1
+    }, {
+      "courseID": 4103,
+      "courseLTNum": 0,
+      "courseNum": 1,
+      "courseTeaName": "罗清桥",
+      "courseTeaNum": 1
+    }, {
+      "courseID": 4094,
+      "courseLTNum": 0,
+      "courseNum": 5,
+      "courseTeaName": "郑宇玲",
+      "courseTeaNum": 1
+    }, {
+      "courseID": 4095,
+      "courseLTNum": 0,
+      "courseNum": 5,
+      "courseTeaName": "雷勋梅",
+      "courseTeaNum": 1
+    }, {
+      "courseID": 4097,
+      "courseLTNum": 0,
+      "courseNum": 5,
+      "courseTeaName": "黄约明",
+      "courseTeaNum": 1
+    }]
+  }, {
+    "classID": 3685,
+    "courseInfoList": [{
+      "courseID": 4094,
+      "courseLTNum": 0,
+      "courseNum": 5,
+      "courseTeaName": "彭梅芳",
+      "courseTeaNum": 1
+    }, {
+      "courseID": 4095,
+      "courseLTNum": 0,
+      "courseNum": 5,
+      "courseTeaName": "曾秀娟",
+      "courseTeaNum": 1
+    }, {
+      "courseID": 4093,
+      "courseLTNum": 1,
+      "courseNum": 6,
+      "courseTeaName": "闵文华",
+      "courseTeaNum": 1
+    }, {
+      "courseID": 4092,
+      "courseLTNum": 0,
+      "courseNum": 5,
+      "courseTeaName": "骆静",
+      "courseTeaNum": 1
+    }, {
+      "courseID": 4096,
+      "courseLTNum": 0,
+      "courseNum": 5,
+      "courseTeaName": "鲁正文",
+      "courseTeaNum": 1
+    }, {
+      "courseID": 4097,
+      "courseLTNum": 0,
+      "courseNum": 5,
+      "courseTeaName": "黄约明",
+      "courseTeaNum": 1
+    }, {
+      "courseID": 4103,
+      "courseLTNum": 0,
+      "courseNum": 1,
+      "courseTeaName": "黄约明",
+      "courseTeaNum": 1
+    }]
+  }, {
+    "classID": 3686,
+    "courseInfoList": [{
+      "courseID": 4092,
+      "courseLTNum": 0,
+      "courseNum": 5,
+      "courseTeaName": "余莉（小）",
+      "courseTeaNum": 1
+    }, {
+      "courseID": 4096,
+      "courseLTNum": 0,
+      "courseNum": 5,
+      "courseTeaName": "周四林",
+      "courseTeaNum": 1
+    }, {
+      "courseID": 4094,
+      "courseLTNum": 0,
+      "courseNum": 5,
+      "courseTeaName": "孙丹",
+      "courseTeaNum": 1
+    }, {
+      "courseID": 4103,
+      "courseLTNum": 0,
+      "courseNum": 1,
+      "courseTeaName": "孙丹",
+      "courseTeaNum": 1
+    }, {
+      "courseID": 4095,
+      "courseLTNum": 0,
+      "courseNum": 5,
+      "courseTeaName": "王慧超",
+      "courseTeaNum": 1
+    }, {
+      "courseID": 4093,
+      "courseLTNum": 1,
+      "courseNum": 6,
+      "courseTeaName": "罗咏梅",
+      "courseTeaNum": 1
+    }, {
+      "courseID": 4097,
+      "courseLTNum": 0,
+      "courseNum": 5,
+      "courseTeaName": "蔡光明",
+      "courseTeaNum": 1
+    }]
+  }, {
+    "classID": 3687,
+    "courseInfoList": [{
+      "courseID": 4095,
+      "courseLTNum": 0,
+      "courseNum": 5,
+      "courseTeaName": "刘喜云",
+      "courseTeaNum": 1
+    }, {
+      "courseID": 4094,
+      "courseLTNum": 0,
+      "courseNum": 5,
+      "courseTeaName": "巴韫华",
+      "courseTeaNum": 1
+    }, {
+      "courseID": 4096,
+      "courseLTNum": 0,
+      "courseNum": 5,
+      "courseTeaName": "熊全安",
+      "courseTeaNum": 1
+    }, {
+      "courseID": 4103,
+      "courseLTNum": 0,
+      "courseNum": 1,
+      "courseTeaName": "熊全安",
+      "courseTeaNum": 1
+    }, {
+      "courseID": 4097,
+      "courseLTNum": 0,
+      "courseNum": 5,
+      "courseTeaName": "纪巧玲",
+      "courseTeaNum": 1
+    }, {
+      "courseID": 4093,
+      "courseLTNum": 1,
+      "courseNum": 6,
+      "courseTeaName": "罗咏梅",
+      "courseTeaNum": 1
+    }, {
+      "courseID": 4092,
+      "courseLTNum": 0,
+      "courseNum": 5,
+      "courseTeaName": "罗清桥",
+      "courseTeaNum": 1
+    }]
+  }, {
+    "classID": 3688,
+    "courseInfoList": [{
+      "courseID": 4096,
+      "courseLTNum": 0,
+      "courseNum": 5,
+      "courseTeaName": "冯平",
+      "courseTeaNum": 1
+    }, {
+      "courseID": 4095,
+      "courseLTNum": 0,
+      "courseNum": 5,
+      "courseTeaName": "刘喜云",
+      "courseTeaNum": 1
+    }, {
+      "courseID": 4103,
+      "courseLTNum": 0,
+      "courseNum": 1,
+      "courseTeaName": "朱利",
+      "courseTeaNum": 1
+    }, {
+      "courseID": 4093,
+      "courseLTNum": 1,
+      "courseNum": 6,
+      "courseTeaName": "朱礼",
+      "courseTeaNum": 1
+    }, {
+      "courseID": 4092,
+      "courseLTNum": 0,
+      "courseNum": 5,
+      "courseTeaName": "王小燕",
+      "courseTeaNum": 1
+    }, {
+      "courseID": 4094,
+      "courseLTNum": 0,
+      "courseNum": 5,
+      "courseTeaName": "王琼",
+      "courseTeaNum": 1
+    }, {
+      "courseID": 4097,
+      "courseLTNum": 0,
+      "courseNum": 5,
+      "courseTeaName": "罗紧超",
+      "courseTeaNum": 1
+    }]
+  }, {
+    "classID": 3689,
+    "courseInfoList": [{
+      "courseID": 4092,
+      "courseLTNum": 0,
+      "courseNum": 5,
+      "courseTeaName": "周洁",
+      "courseTeaNum": 1
+    }, {
+      "courseID": 4094,
+      "courseLTNum": 0,
+      "courseNum": 5,
+      "courseTeaName": "巴韫华",
+      "courseTeaNum": 1
+    }, {
+      "courseID": 4099,
+      "courseLTNum": 0,
+      "courseNum": 5,
+      "courseTeaName": "洪爱莲",
+      "courseTeaNum": 1
+    }, {
+      "courseID": 4100,
+      "courseLTNum": 0,
+      "courseNum": 5,
+      "courseTeaName": "陈伟",
+      "courseTeaNum": 1
+    }, {
+      "courseID": 4093,
+      "courseLTNum": 1,
+      "courseNum": 6,
+      "courseTeaName": "黄华松",
+      "courseTeaNum": 1
+    }, {
+      "courseID": 4103,
+      "courseLTNum": 0,
+      "courseNum": 1,
+      "courseTeaName": "黄华松",
+      "courseTeaNum": 1
+    }, {
+      "courseID": 4098,
+      "courseLTNum": 0,
+      "courseNum": 5,
+      "courseTeaName": "龙建华",
+      "courseTeaNum": 1
+    }]
+  }, {
+    "classID": 3690,
+    "courseInfoList": [{
+      "courseID": 4099,
+      "courseLTNum": 0,
+      "courseNum": 5,
+      "courseTeaName": "余芬",
+      "courseTeaNum": 1
+    }, {
+      "courseID": 4092,
+      "courseLTNum": 0,
+      "courseNum": 5,
+      "courseTeaName": "叶传鑫",
+      "courseTeaNum": 1
+    }, {
+      "courseID": 4094,
+      "courseLTNum": 0,
+      "courseNum": 5,
+      "courseTeaName": "夏鄂华",
+      "courseTeaNum": 1
+    }, {
+      "courseID": 4098,
+      "courseLTNum": 0,
+      "courseNum": 5,
+      "courseTeaName": "杨莉",
+      "courseTeaNum": 1
+    }, {
+      "courseID": 4093,
+      "courseLTNum": 1,
+      "courseNum": 6,
+      "courseTeaName": "熊建军",
+      "courseTeaNum": 1
+    }, {
+      "courseID": 4100,
+      "courseLTNum": 0,
+      "courseNum": 5,
+      "courseTeaName": "程华松",
+      "courseTeaNum": 1
+    }, {
+      "courseID": 4103,
+      "courseLTNum": 0,
+      "courseNum": 1,
+      "courseTeaName": "程华松",
+      "courseTeaNum": 1
+    }]
+  }, {
+    "classID": 3691,
+    "courseInfoList": [{
+      "courseID": 4094,
+      "courseLTNum": 0,
+      "courseNum": 5,
+      "courseTeaName": "刘亚东",
+      "courseTeaNum": 1
+    }, {
+      "courseID": 4096,
+      "courseLTNum": 0,
+      "courseNum": 5,
+      "courseTeaName": "周四林",
+      "courseTeaNum": 1
+    }, {
+      "courseID": 4092,
+      "courseLTNum": 0,
+      "courseNum": 5,
+      "courseTeaName": "杨林",
+      "courseTeaNum": 1
+    }, {
+      "courseID": 4093,
+      "courseLTNum": 1,
+      "courseNum": 6,
+      "courseTeaName": "熊建军",
+      "courseTeaNum": 1
+    }, {
+      "courseID": 4103,
+      "courseLTNum": 0,
+      "courseNum": 1,
+      "courseTeaName": "熊建军",
+      "courseTeaNum": 1
+    }, {
+      "courseID": 4097,
+      "courseLTNum": 0,
+      "courseNum": 5,
+      "courseTeaName": "蔡光明",
+      "courseTeaNum": 1
+    }, {
+      "courseID": 4095,
+      "courseLTNum": 0,
+      "courseNum": 5,
+      "courseTeaName": "郑淳",
+      "courseTeaNum": 1
+    }]
+  }, {
+    "classID": 3692,
+    "courseInfoList": [{
+      "courseID": 4095,
+      "courseLTNum": 0,
+      "courseNum": 5,
+      "courseTeaName": "余堂洲",
+      "courseTeaNum": 1
+    }, {
+      "courseID": 4103,
+      "courseLTNum": 0,
+      "courseNum": 1,
+      "courseTeaName": "余堂洲",
+      "courseTeaNum": 1
+    }, {
+      "courseID": 4093,
+      "courseLTNum": 1,
+      "courseNum": 6,
+      "courseTeaName": "刘巧梅",
+      "courseTeaNum": 1
+    }, {
+      "courseID": 4094,
+      "courseLTNum": 0,
+      "courseNum": 5,
+      "courseTeaName": "王琼",
+      "courseTeaNum": 1
+    }, {
+      "courseID": 4097,
+      "courseLTNum": 0,
+      "courseNum": 5,
+      "courseTeaName": "纪卫军",
+      "courseTeaNum": 1
+    }, {
+      "courseID": 4096,
+      "courseLTNum": 0,
+      "courseNum": 5,
+      "courseTeaName": "谢畅",
+      "courseTeaNum": 1
+    }, {
+      "courseID": 4092,
+      "courseLTNum": 0,
+      "courseNum": 5,
+      "courseTeaName": "骆静",
+      "courseTeaNum": 1
+    }]
+  }, {
+    "classID": 3693,
+    "courseInfoList": [{
+      "courseID": 4094,
+      "courseLTNum": 0,
+      "courseNum": 5,
+      "courseTeaName": "吴能文",
+      "courseTeaNum": 1
+    }, {
+      "courseID": 4096,
+      "courseLTNum": 0,
+      "courseNum": 5,
+      "courseTeaName": "夏超",
+      "courseTeaNum": 1
+    }, {
+      "courseID": 4095,
+      "courseLTNum": 0,
+      "courseNum": 5,
+      "courseTeaName": "孟桂花",
+      "courseTeaNum": 1
+    }, {
+      "courseID": 4092,
+      "courseLTNum": 0,
+      "courseNum": 5,
+      "courseTeaName": "李俊",
+      "courseTeaNum": 1
+    }, {
+      "courseID": 4097,
+      "courseLTNum": 0,
+      "courseNum": 5,
+      "courseTeaName": "纪卫军",
+      "courseTeaNum": 1
+    }, {
+      "courseID": 4093,
+      "courseLTNum": 1,
+      "courseNum": 6,
+      "courseTeaName": "陈申明",
+      "courseTeaNum": 1
+    }, {
+      "courseID": 4103,
+      "courseLTNum": 0,
+      "courseNum": 1,
+      "courseTeaName": "陈申明",
+      "courseTeaNum": 1
+    }]
+  }, {
+    "classID": 3694,
+    "courseInfoList": [{
+      "courseID": 4096,
+      "courseLTNum": 0,
+      "courseNum": 5,
+      "courseTeaName": "夏超",
+      "courseTeaNum": 1
+    }, {
+      "courseID": 4103,
+      "courseLTNum": 0,
+      "courseNum": 1,
+      "courseTeaName": "夏超",
+      "courseTeaNum": 1
+    }, {
+      "courseID": 4093,
+      "courseLTNum": 1,
+      "courseNum": 6,
+      "courseTeaName": "李来贵",
+      "courseTeaNum": 1
+    }, {
+      "courseID": 4095,
+      "courseLTNum": 0,
+      "courseNum": 5,
+      "courseTeaName": "王慧超",
+      "courseTeaNum": 1
+    }, {
+      "courseID": 4097,
+      "courseLTNum": 0,
+      "courseNum": 5,
+      "courseTeaName": "纪巧玲",
+      "courseTeaNum": 1
+    }, {
+      "courseID": 4094,
+      "courseLTNum": 0,
+      "courseNum": 5,
+      "courseTeaName": "胡涛",
+      "courseTeaNum": 1
+    }, {
+      "courseID": 4092,
+      "courseLTNum": 0,
+      "courseNum": 5,
+      "courseTeaName": "邓琴",
+      "courseTeaNum": 1
+    }]
+  }, {
+    "classID": 3695,
+    "courseInfoList": [{
+      "courseID": 4092,
+      "courseLTNum": 0,
+      "courseNum": 5,
+      "courseTeaName": "万小军",
+      "courseTeaNum": 1
+    }, {
+      "courseID": 4103,
+      "courseLTNum": 0,
+      "courseNum": 1,
+      "courseTeaName": "万小军",
+      "courseTeaNum": 1
+    }, {
+      "courseID": 4096,
+      "courseLTNum": 0,
+      "courseNum": 5,
+      "courseTeaName": "万志文",
+      "courseTeaNum": 1
+    }, {
+      "courseID": 4094,
+      "courseLTNum": 0,
+      "courseNum": 5,
+      "courseTeaName": "刘花",
+      "courseTeaNum": 1
+    }, {
+      "courseID": 4093,
+      "courseLTNum": 1,
+      "courseNum": 6,
+      "courseTeaName": "李从德",
+      "courseTeaNum": 1
+    }, {
+      "courseID": 4097,
+      "courseLTNum": 0,
+      "courseNum": 5,
+      "courseTeaName": "赵卉",
+      "courseTeaNum": 1
+    }, {
+      "courseID": 4095,
+      "courseLTNum": 0,
+      "courseNum": 5,
+      "courseTeaName": "郑淳",
+      "courseTeaNum": 1
+    }]
+  }, {
+    "classID": 3696,
+    "courseInfoList": [{
+      "courseID": 4094,
+      "courseLTNum": 0,
+      "courseNum": 5,
+      "courseTeaName": "刘花",
+      "courseTeaNum": 1
+    }, {
+      "courseID": 4092,
+      "courseLTNum": 0,
+      "courseNum": 5,
+      "courseTeaName": "叶传鑫",
+      "courseTeaNum": 1
+    }, {
+      "courseID": 4103,
+      "courseLTNum": 0,
+      "courseNum": 1,
+      "courseTeaName": "叶传鑫",
+      "courseTeaNum": 1
+    }, {
+      "courseID": 4096,
+      "courseLTNum": 0,
+      "courseNum": 5,
+      "courseTeaName": "张莉芹",
+      "courseTeaNum": 1
+    }, {
+      "courseID": 4095,
+      "courseLTNum": 0,
+      "courseNum": 5,
+      "courseTeaName": "曾秀娟",
+      "courseTeaNum": 1
+    }, {
+      "courseID": 4093,
+      "courseLTNum": 1,
+      "courseNum": 6,
+      "courseTeaName": "王娜",
+      "courseTeaNum": 1
+    }, {
+      "courseID": 4097,
+      "courseLTNum": 0,
+      "courseNum": 5,
+      "courseTeaName": "罗紧超",
+      "courseTeaNum": 1
+    }]
+  }, {
+    "classID": 3697,
+    "courseInfoList": [{
+      "courseID": 4095,
+      "courseLTNum": 0,
+      "courseNum": 5,
+      "courseTeaName": "余堂洲",
+      "courseTeaNum": 1
+    }, {
+      "courseID": 4093,
+      "courseLTNum": 1,
+      "courseNum": 6,
+      "courseTeaName": "张俊勇",
+      "courseTeaNum": 1
+    }, {
+      "courseID": 4103,
+      "courseLTNum": 0,
+      "courseNum": 1,
+      "courseTeaName": "张俊勇",
+      "courseTeaNum": 1
+    }, {
+      "courseID": 4094,
+      "courseLTNum": 0,
+      "courseNum": 5,
+      "courseTeaName": "熊珍",
+      "courseTeaNum": 1
+    }, {
+      "courseID": 4092,
+      "courseLTNum": 0,
+      "courseNum": 5,
+      "courseTeaName": "肖旭秀",
+      "courseTeaNum": 1
+    }, {
+      "courseID": 4096,
+      "courseLTNum": 0,
+      "courseNum": 5,
+      "courseTeaName": "谢畅",
+      "courseTeaNum": 1
+    }, {
+      "courseID": 4097,
+      "courseLTNum": 0,
+      "courseNum": 5,
+      "courseTeaName": "赵卉",
+      "courseTeaNum": 1
+    }]
+  }, {
+    "classID": 3698,
+    "courseInfoList": [{
+      "courseID": 4099,
+      "courseLTNum": 0,
+      "courseNum": 5,
+      "courseTeaName": "姚远军",
+      "courseTeaNum": 1
+    }, {
+      "courseID": 4103,
+      "courseLTNum": 0,
+      "courseNum": 1,
+      "courseTeaName": "姚远军",
+      "courseTeaNum": 1
+    }, {
+      "courseID": 4098,
+      "courseLTNum": 0,
+      "courseNum": 5,
+      "courseTeaName": "张兰",
+      "courseTeaNum": 1
+    }, {
+      "courseID": 4100,
+      "courseLTNum": 0,
+      "courseNum": 5,
+      "courseTeaName": "杜仕杰",
+      "courseTeaNum": 1
+    }, {
+      "courseID": 4092,
+      "courseLTNum": 0,
+      "courseNum": 5,
+      "courseTeaName": "邱晓春",
+      "courseTeaNum": 1
+    }, {
+      "courseID": 4094,
+      "courseLTNum": 0,
+      "courseNum": 5,
+      "courseTeaName": "郑宇玲",
+      "courseTeaNum": 1
+    }, {
+      "courseID": 4093,
+      "courseLTNum": 1,
+      "courseNum": 6,
+      "courseTeaName": "闵文华",
+      "courseTeaNum": 1
+    }]
+  }, {
+    "classID": 3699,
+    "courseInfoList": [{
+      "courseID": 4093,
+      "courseLTNum": 1,
+      "courseNum": 6,
+      "courseTeaName": "吴敏",
+      "courseTeaNum": 1
+    }, {
+      "courseID": 4094,
+      "courseLTNum": 0,
+      "courseNum": 5,
+      "courseTeaName": "彭梅芳",
+      "courseTeaNum": 1
+    }, {
+      "courseID": 4095,
+      "courseLTNum": 0,
+      "courseNum": 5,
+      "courseTeaName": "曾伟",
+      "courseTeaNum": 1
+    }, {
+      "courseID": 4103,
+      "courseLTNum": 0,
+      "courseNum": 1,
+      "courseTeaName": "曾伟",
+      "courseTeaNum": 1
+    }, {
+      "courseID": 4097,
+      "courseLTNum": 0,
+      "courseNum": 5,
+      "courseTeaName": "纪卫军",
+      "courseTeaNum": 1
+    }, {
+      "courseID": 4092,
+      "courseLTNum": 0,
+      "courseNum": 5,
+      "courseTeaName": "邱晓春",
+      "courseTeaNum": 1
+    }, {
+      "courseID": 4096,
+      "courseLTNum": 0,
+      "courseNum": 5,
+      "courseTeaName": "鲁正文",
+      "courseTeaNum": 1
+    }]
+  }],
+  "classID": [3680, 3681, 3682, 3683, 3684, 3685, 3686, 3687, 3688, 3689, 3690, 3691, 3692, 3693, 3694, 3695, 3696, 3697, 3698, 3699],
+  "classNum": 20,
+  "crsListInfo": [{
+    "courseID": 4092,
+    "courseName": "语文"
+  }, {
+    "courseID": 4093,
+    "courseName": "数学"
+  }, {
+    "courseID": 4094,
+    "courseName": "英语"
+  }, {
+    "courseID": 4095,
+    "courseName": "物理"
+  }, {
+    "courseID": 4096,
+    "courseName": "化学"
+  }, {
+    "courseID": 4097,
+    "courseName": "生物"
+  }, {
+    "courseID": 4098,
+    "courseName": "政治"
+  }, {
+    "courseID": 4099,
+    "courseName": "历史"
+  }, {
+    "courseID": 4100,
+    "courseName": "地理"
+  }, {
+    "courseID": 4101,
+    "courseName": "体育"
+  }, {
+    "courseID": 4102,
+    "courseName": "自习"
+  }, {
+    "courseID": 4103,
+    "courseName": "班会"
+  }],
+  "crsNum": 12,
+  "ctwo": 1,
+  "ctwoCrs": [4092, 4093, 4094],
+  "ctwoTime": 4,
+  "dayCrs": 8,
+  "dayCrsAf": 4,
+  "dayCrsMr": 4,
+  "hBKNum": 0,
+  "hbkInfo": [{
+    "hbkClassInfo": [3682, 3695, 3690, 3696, 3683, 3694],
+    "hbkClassNum": 6,
+    "hbkcID": 4092
+  }],
+  "noClassTimeInfo": [{
+    "concentrated": 0,
+    "id": 3680,
+    "timeInfo": [{
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 1
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 2
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 3
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 4
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 5
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 6
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 7
+    }],
+    "type": "Class"
+  }, {
+    "concentrated": 0,
+    "id": 3681,
+    "timeInfo": [{
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 1
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 2
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 3
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 4
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 5
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 6
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 7
+    }],
+    "type": "Class"
+  }, {
+    "concentrated": 0,
+    "id": 3682,
+    "timeInfo": [{
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 1
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 2
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 3
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 4
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 5
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 6
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 7
+    }],
+    "type": "Class"
+  }, {
+    "concentrated": 0,
+    "id": 3683,
+    "timeInfo": [{
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 1
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 2
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 3
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 4
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 5
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 6
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 7
+    }],
+    "type": "Class"
+  }, {
+    "concentrated": 0,
+    "id": 3684,
+    "timeInfo": [{
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 1
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 2
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 3
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 4
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 5
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 6
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 7
+    }],
+    "type": "Class"
+  }, {
+    "concentrated": 0,
+    "id": 3685,
+    "timeInfo": [{
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 1
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 2
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 3
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 4
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 5
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 6
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 7
+    }],
+    "type": "Class"
+  }, {
+    "concentrated": 0,
+    "id": 3686,
+    "timeInfo": [{
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 1
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 2
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 3
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 4
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 5
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 6
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 7
+    }],
+    "type": "Class"
+  }, {
+    "concentrated": 0,
+    "id": 3687,
+    "timeInfo": [{
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 1
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 2
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 3
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 4
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 5
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 6
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 7
+    }],
+    "type": "Class"
+  }, {
+    "concentrated": 0,
+    "id": 3688,
+    "timeInfo": [{
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 1
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 2
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 3
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 4
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 5
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 6
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 7
+    }],
+    "type": "Class"
+  }, {
+    "concentrated": 0,
+    "id": 3689,
+    "timeInfo": [{
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 1
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 2
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 3
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 4
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 5
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 6
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 7
+    }],
+    "type": "Class"
+  }, {
+    "concentrated": 0,
+    "id": 3690,
+    "timeInfo": [{
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 1
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 2
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 3
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 4
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 5
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 6
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 7
+    }],
+    "type": "Class"
+  }, {
+    "concentrated": 0,
+    "id": 3691,
+    "timeInfo": [{
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 1
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 2
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 3
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 4
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 5
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 6
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 7
+    }],
+    "type": "Class"
+  }, {
+    "concentrated": 0,
+    "id": 3692,
+    "timeInfo": [{
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 1
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 2
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 3
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 4
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 5
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 6
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 7
+    }],
+    "type": "Class"
+  }, {
+    "concentrated": 0,
+    "id": 3693,
+    "timeInfo": [{
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 1
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 2
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 3
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 4
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 5
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 6
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 7
+    }],
+    "type": "Class"
+  }, {
+    "concentrated": 0,
+    "id": 3694,
+    "timeInfo": [{
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 1
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 2
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 3
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 4
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 5
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 6
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 7
+    }],
+    "type": "Class"
+  }, {
+    "concentrated": 0,
+    "id": 3695,
+    "timeInfo": [{
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 1
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 2
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 3
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 4
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 5
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 6
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 7
+    }],
+    "type": "Class"
+  }, {
+    "concentrated": 0,
+    "id": 3696,
+    "timeInfo": [{
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 1
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 2
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 3
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 4
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 5
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 6
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 7
+    }],
+    "type": "Class"
+  }, {
+    "concentrated": 0,
+    "id": 3697,
+    "timeInfo": [{
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 1
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 2
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 3
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 4
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 5
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 6
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 7
+    }],
+    "type": "Class"
+  }, {
+    "concentrated": 0,
+    "id": 3698,
+    "timeInfo": [{
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 1
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 2
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 3
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 4
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 5
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 6
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 7
+    }],
+    "type": "Class"
+  }, {
+    "concentrated": 0,
+    "id": 3699,
+    "timeInfo": [{
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 1
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 2
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 3
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 4
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 5
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 6
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 0, 0, 0, 0],
+      "day": 7
+    }],
+    "type": "Class"
+  }, {
+    "concentrated": 0,
+    "id": 4092,
+    "timeInfo": [{
+      "avbTimeInfo": [1, 1, 1, 1, 0, 1, 1, 1],
+      "day": 1
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 0, 1, 1, 1],
+      "day": 2
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 0, 1, 1, 1],
+      "day": 3
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 0, 1, 1, 1],
+      "day": 4
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 0, 1, 1, 1],
+      "day": 5
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 0, 1, 1, 1],
+      "day": 6
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 0, 1, 1, 1],
+      "day": 7
+    }],
+    "type": "Course"
+  }, {
+    "concentrated": 0,
+    "id": 4093,
+    "timeInfo": [{
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 1
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 2
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 3
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 4
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 5
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 6
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 7
+    }],
+    "type": "Course"
+  }, {
+    "concentrated": 0,
+    "id": 4094,
+    "timeInfo": [{
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 1
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 2
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 3
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 4
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 5
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 6
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 7
+    }],
+    "type": "Course"
+  }, {
+    "concentrated": 0,
+    "id": 4095,
+    "timeInfo": [{
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 1
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 2
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 3
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 4
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 5
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 6
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 7
+    }],
+    "type": "Course"
+  }, {
+    "concentrated": 0,
+    "id": 4096,
+    "timeInfo": [{
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 1
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 2
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 3
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 4
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 5
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 6
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 7
+    }],
+    "type": "Course"
+  }, {
+    "concentrated": 0,
+    "id": 4097,
+    "timeInfo": [{
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 1
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 2
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 3
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 4
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 5
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 6
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 7
+    }],
+    "type": "Course"
+  }, {
+    "concentrated": 0,
+    "id": 4098,
+    "timeInfo": [{
+      "avbTimeInfo": [1, 1, 1, 1, 0, 1, 1, 1],
+      "day": 1
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 0, 1, 1, 1],
+      "day": 2
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 0, 1, 1, 1],
+      "day": 3
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 0, 1, 1, 1],
+      "day": 4
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 0, 1, 1, 1],
+      "day": 5
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 0, 1, 1, 1],
+      "day": 6
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 0, 1, 1, 1],
+      "day": 7
+    }],
+    "type": "Course"
+  }, {
+    "concentrated": 0,
+    "id": 4099,
+    "timeInfo": [{
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 1
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 2
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 3
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 4
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 5
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 6
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 7
+    }],
+    "type": "Course"
+  }, {
+    "concentrated": 0,
+    "id": 4100,
+    "timeInfo": [{
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 1
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 2
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 3
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 4
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 5
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 6
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 7
+    }],
+    "type": "Course"
+  }, {
+    "concentrated": 0,
+    "id": 4101,
+    "timeInfo": [{
+      "avbTimeInfo": [0, 0, 1, 1, 1, 1, 1, 1],
+      "day": 1
+    }, {
+      "avbTimeInfo": [0, 0, 1, 1, 1, 1, 1, 1],
+      "day": 2
+    }, {
+      "avbTimeInfo": [0, 0, 1, 1, 1, 1, 1, 1],
+      "day": 3
+    }, {
+      "avbTimeInfo": [0, 0, 1, 1, 1, 1, 1, 1],
+      "day": 4
+    }, {
+      "avbTimeInfo": [0, 0, 1, 1, 1, 1, 1, 1],
+      "day": 5
+    }, {
+      "avbTimeInfo": [0, 0, 1, 1, 1, 1, 1, 1],
+      "day": 6
+    }, {
+      "avbTimeInfo": [0, 0, 1, 1, 1, 1, 1, 1],
+      "day": 7
+    }],
+    "type": "Course"
+  }, {
+    "concentrated": 0,
+    "id": 4102,
+    "timeInfo": [{
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 1
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 2
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 3
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 4
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 5
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 6
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 7
+    }],
+    "type": "Course"
+  }, {
+    "concentrated": 0,
+    "id": 4103,
+    "timeInfo": [{
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 1
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 2
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 3
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 4
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 5
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 6
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 7
+    }],
+    "type": "Course"
+  }, {
+    "concentrated": 0,
+    "id": 0,
+    "name": "万小军",
+    "timeInfo": [{
+      "avbTimeInfo": [0, 0, 1, 1, 1, 1, 1, 0],
+      "day": 1
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 0],
+      "day": 2
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 0],
+      "day": 3
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 4
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 5
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 6
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 7
+    }],
+    "type": "Teacher"
+  }, {
+    "concentrated": 0,
+    "id": 0,
+    "name": "万志文",
+    "timeInfo": [{
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 1
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 2
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 3
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 4
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 5
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 6
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 7
+    }],
+    "type": "Teacher"
+  }, {
+    "concentrated": 0,
+    "id": 0,
+    "name": "余堂洲",
+    "timeInfo": [{
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 1
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 2
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 3
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 4
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 5
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 6
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 7
+    }],
+    "type": "Teacher"
+  }, {
+    "concentrated": 0,
+    "id": 0,
+    "name": "余芬",
+    "timeInfo": [{
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 1
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 2
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 3
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 4
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 5
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 6
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 7
+    }],
+    "type": "Teacher"
+  }, {
+    "concentrated": 0,
+    "id": 0,
+    "name": "余莉（大）",
+    "timeInfo": [{
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 1
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 2
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 3
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 4
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 5
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 6
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 7
+    }],
+    "type": "Teacher"
+  }, {
+    "concentrated": 0,
+    "id": 0,
+    "name": "余莉（小）",
+    "timeInfo": [{
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 1
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 2
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 3
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 4
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 5
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 6
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 7
+    }],
+    "type": "Teacher"
+  }, {
+    "concentrated": 0,
+    "id": 0,
+    "name": "冯平",
+    "timeInfo": [{
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 1
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 2
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 3
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 4
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 5
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 6
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 7
+    }],
+    "type": "Teacher"
+  }, {
+    "concentrated": 0,
+    "id": 0,
+    "name": "刘亚东",
+    "timeInfo": [{
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 1
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 2
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 3
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 4
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 5
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 6
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 7
+    }],
+    "type": "Teacher"
+  }, {
+    "concentrated": 0,
+    "id": 0,
+    "name": "刘喜云",
+    "timeInfo": [{
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 1
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 2
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 3
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 4
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 5
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 6
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 7
+    }],
+    "type": "Teacher"
+  }, {
+    "concentrated": 0,
+    "id": 0,
+    "name": "刘巧梅",
+    "timeInfo": [{
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 1
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 2
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 3
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 4
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 5
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 6
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 7
+    }],
+    "type": "Teacher"
+  }, {
+    "concentrated": 0,
+    "id": 0,
+    "name": "刘花",
+    "timeInfo": [{
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 1
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 2
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 3
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 4
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 5
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 6
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 7
+    }],
+    "type": "Teacher"
+  }, {
+    "concentrated": 0,
+    "id": 0,
+    "name": "叶传鑫",
+    "timeInfo": [{
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 1
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 2
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 3
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 4
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 5
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 6
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 7
+    }],
+    "type": "Teacher"
+  }, {
+    "concentrated": 0,
+    "id": 0,
+    "name": "吴敏",
+    "timeInfo": [{
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 1
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 2
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 3
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 4
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 5
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 6
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 7
+    }],
+    "type": "Teacher"
+  }, {
+    "concentrated": 0,
+    "id": 0,
+    "name": "吴能文",
+    "timeInfo": [{
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 1
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 2
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 3
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 4
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 5
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 6
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 7
+    }],
+    "type": "Teacher"
+  }, {
+    "concentrated": 0,
+    "id": 0,
+    "name": "周四林",
+    "timeInfo": [{
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 1
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 2
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 3
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 4
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 5
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 6
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 7
+    }],
+    "type": "Teacher"
+  }, {
+    "concentrated": 0,
+    "id": 0,
+    "name": "周洁",
+    "timeInfo": [{
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 1
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 2
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 3
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 4
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 5
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 6
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 7
+    }],
+    "type": "Teacher"
+  }, {
+    "concentrated": 0,
+    "id": 0,
+    "name": "夏超",
+    "timeInfo": [{
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 1
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 2
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 3
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 4
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 5
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 6
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 7
+    }],
+    "type": "Teacher"
+  }, {
+    "concentrated": 0,
+    "id": 0,
+    "name": "夏鄂华",
+    "timeInfo": [{
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 1
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 2
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 3
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 4
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 5
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 6
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 7
+    }],
+    "type": "Teacher"
+  }, {
+    "concentrated": 0,
+    "id": 0,
+    "name": "姚远军",
+    "timeInfo": [{
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 1
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 2
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 3
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 4
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 5
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 6
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 7
+    }],
+    "type": "Teacher"
+  }, {
+    "concentrated": 0,
+    "id": 0,
+    "name": "孙丹",
+    "timeInfo": [{
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 1
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 2
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 3
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 4
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 5
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 6
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 7
+    }],
+    "type": "Teacher"
+  }, {
+    "concentrated": 0,
+    "id": 0,
+    "name": "孟桂花",
+    "timeInfo": [{
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 1
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 2
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 3
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 4
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 5
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 6
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 7
+    }],
+    "type": "Teacher"
+  }, {
+    "concentrated": 0,
+    "id": 0,
+    "name": "巴韫华",
+    "timeInfo": [{
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 1
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 2
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 3
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 4
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 5
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 6
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 7
+    }],
+    "type": "Teacher"
+  }, {
+    "concentrated": 0,
+    "id": 0,
+    "name": "张俊勇",
+    "timeInfo": [{
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 1
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 2
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 3
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 4
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 5
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 6
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 7
+    }],
+    "type": "Teacher"
+  }, {
+    "concentrated": 0,
+    "id": 0,
+    "name": "张兰",
+    "timeInfo": [{
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 1
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 2
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 3
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 4
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 5
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 6
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 7
+    }],
+    "type": "Teacher"
+  }, {
+    "concentrated": 0,
+    "id": 0,
+    "name": "张根祥",
+    "timeInfo": [{
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 1
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 2
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 3
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 4
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 5
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 6
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 7
+    }],
+    "type": "Teacher"
+  }, {
+    "concentrated": 0,
+    "id": 0,
+    "name": "张莉芹",
+    "timeInfo": [{
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 1
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 2
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 3
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 4
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 5
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 6
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 7
+    }],
+    "type": "Teacher"
+  }, {
+    "concentrated": 0,
+    "id": 0,
+    "name": "彭梅芳",
+    "timeInfo": [{
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 1
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 2
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 3
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 4
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 5
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 6
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 7
+    }],
+    "type": "Teacher"
+  }, {
+    "concentrated": 0,
+    "id": 0,
+    "name": "徐胜",
+    "timeInfo": [{
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 1
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 2
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 3
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 4
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 5
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 6
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 7
+    }],
+    "type": "Teacher"
+  }, {
+    "concentrated": 0,
+    "id": 0,
+    "name": "曾伟",
+    "timeInfo": [{
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 1
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 2
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 3
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 4
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 5
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 6
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 7
+    }],
+    "type": "Teacher"
+  }, {
+    "concentrated": 0,
+    "id": 0,
+    "name": "曾秀娟",
+    "timeInfo": [{
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 1
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 2
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 3
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 4
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 5
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 6
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 7
+    }],
+    "type": "Teacher"
+  }, {
+    "concentrated": 0,
+    "id": 0,
+    "name": "朱利",
+    "timeInfo": [{
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 1
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 2
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 3
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 4
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 5
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 6
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 7
+    }],
+    "type": "Teacher"
+  }, {
+    "concentrated": 0,
+    "id": 0,
+    "name": "朱礼",
+    "timeInfo": [{
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 1
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 2
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 3
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 4
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 5
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 6
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 7
+    }],
+    "type": "Teacher"
+  }, {
+    "concentrated": 0,
+    "id": 0,
+    "name": "李从德",
+    "timeInfo": [{
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 1
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 2
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 3
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 4
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 5
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 6
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 7
+    }],
+    "type": "Teacher"
+  }, {
+    "concentrated": 0,
+    "id": 0,
+    "name": "李俊",
+    "timeInfo": [{
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 1
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 2
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 3
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 4
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 5
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 6
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 7
+    }],
+    "type": "Teacher"
+  }, {
+    "concentrated": 0,
+    "id": 0,
+    "name": "李来贵",
+    "timeInfo": [{
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 1
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 2
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 3
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 4
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 5
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 6
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 7
+    }],
+    "type": "Teacher"
+  }, {
+    "concentrated": 0,
+    "id": 0,
+    "name": "杜仕杰",
+    "timeInfo": [{
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 1
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 2
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 3
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 4
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 5
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 6
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 7
+    }],
+    "type": "Teacher"
+  }, {
+    "concentrated": 0,
+    "id": 0,
+    "name": "杨林",
+    "timeInfo": [{
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 1
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 2
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 3
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 4
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 5
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 6
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 7
+    }],
+    "type": "Teacher"
+  }, {
+    "concentrated": 0,
+    "id": 0,
+    "name": "杨莉",
+    "timeInfo": [{
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 1
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 2
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 3
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 4
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 5
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 6
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 7
+    }],
+    "type": "Teacher"
+  }, {
+    "concentrated": 0,
+    "id": 0,
+    "name": "洪爱莲",
+    "timeInfo": [{
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 1
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 2
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 3
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 4
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 5
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 6
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 7
+    }],
+    "type": "Teacher"
+  }, {
+    "concentrated": 0,
+    "id": 0,
+    "name": "熊全安",
+    "timeInfo": [{
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 1
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 2
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 3
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 4
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 5
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 6
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 7
+    }],
+    "type": "Teacher"
+  }, {
+    "concentrated": 0,
+    "id": 0,
+    "name": "熊建军",
+    "timeInfo": [{
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 1
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 2
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 3
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 4
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 5
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 6
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 7
+    }],
+    "type": "Teacher"
+  }, {
+    "concentrated": 0,
+    "id": 0,
+    "name": "熊珍",
+    "timeInfo": [{
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 1
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 2
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 3
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 4
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 5
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 6
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 7
+    }],
+    "type": "Teacher"
+  }, {
+    "concentrated": 0,
+    "id": 0,
+    "name": "王娜",
+    "timeInfo": [{
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 1
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 2
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 3
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 4
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 5
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 6
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 7
+    }],
+    "type": "Teacher"
+  }, {
+    "concentrated": 0,
+    "id": 0,
+    "name": "王小燕",
+    "timeInfo": [{
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 1
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 2
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 3
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 4
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 5
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 6
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 7
+    }],
+    "type": "Teacher"
+  }, {
+    "concentrated": 0,
+    "id": 0,
+    "name": "王慧超",
+    "timeInfo": [{
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 1
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 2
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 3
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 4
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 5
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 6
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 7
+    }],
+    "type": "Teacher"
+  }, {
+    "concentrated": 0,
+    "id": 0,
+    "name": "王琼",
+    "timeInfo": [{
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 1
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 2
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 3
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 4
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 5
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 6
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 7
+    }],
+    "type": "Teacher"
+  }, {
+    "concentrated": 0,
+    "id": 0,
+    "name": "王瑛",
+    "timeInfo": [{
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 1
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 2
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 3
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 4
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 5
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 6
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 7
+    }],
+    "type": "Teacher"
+  }, {
+    "concentrated": 0,
+    "id": 0,
+    "name": "程华松",
+    "timeInfo": [{
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 1
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 2
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 3
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 4
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 5
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 6
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 7
+    }],
+    "type": "Teacher"
+  }, {
+    "concentrated": 0,
+    "id": 0,
+    "name": "纪卫军",
+    "timeInfo": [{
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 1
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 2
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 3
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 4
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 5
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 6
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 7
+    }],
+    "type": "Teacher"
+  }, {
+    "concentrated": 1,
+    "id": 0,
+    "name": "纪巧玲",
+    "timeInfo": [{
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 1
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 2
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 3
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 4
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 5
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 6
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 7
+    }],
+    "type": "Teacher"
+  }, {
+    "concentrated": 0,
+    "id": 0,
+    "name": "罗咏梅",
+    "timeInfo": [{
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 1
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 2
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 3
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 4
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 5
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 6
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 7
+    }],
+    "type": "Teacher"
+  }, {
+    "concentrated": 0,
+    "id": 0,
+    "name": "罗清桥",
+    "timeInfo": [{
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 1
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 2
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 3
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 4
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 5
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 6
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 7
+    }],
+    "type": "Teacher"
+  }, {
+    "concentrated": 0,
+    "id": 0,
+    "name": "罗紧超",
+    "timeInfo": [{
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 1
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 2
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 3
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 4
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 5
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 6
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 7
+    }],
+    "type": "Teacher"
+  }, {
+    "concentrated": 0,
+    "id": 0,
+    "name": "肖旭秀",
+    "timeInfo": [{
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 1
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 2
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 3
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 4
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 5
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 6
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 7
+    }],
+    "type": "Teacher"
+  }, {
+    "concentrated": 0,
+    "id": 0,
+    "name": "肖述秀",
+    "timeInfo": [{
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 1
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 2
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 3
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 4
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 5
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 6
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 7
+    }],
+    "type": "Teacher"
+  }, {
+    "concentrated": 0,
+    "id": 0,
+    "name": "胡涛",
+    "timeInfo": [{
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 1
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 2
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 3
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 4
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 5
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 6
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 7
+    }],
+    "type": "Teacher"
+  }, {
+    "concentrated": 0,
+    "id": 0,
+    "name": "蔡光明",
+    "timeInfo": [{
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 1
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 2
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 3
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 4
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 5
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 6
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 7
+    }],
+    "type": "Teacher"
+  }, {
+    "concentrated": 0,
+    "id": 0,
+    "name": "谢畅",
+    "timeInfo": [{
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 1
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 2
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 3
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 4
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 5
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 6
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 7
+    }],
+    "type": "Teacher"
+  }, {
+    "concentrated": 0,
+    "id": 0,
+    "name": "赵卉",
+    "timeInfo": [{
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 1
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 2
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 3
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 4
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 5
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 6
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 7
+    }],
+    "type": "Teacher"
+  }, {
+    "concentrated": 1,
+    "id": 0,
+    "name": "邓琴",
+    "timeInfo": [{
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 1
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 2
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 3
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 4
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 5
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 6
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 7
+    }],
+    "type": "Teacher"
+  }, {
+    "concentrated": 0,
+    "id": 0,
+    "name": "邱晓春",
+    "timeInfo": [{
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 1
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 2
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 3
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 4
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 5
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 6
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 7
+    }],
+    "type": "Teacher"
+  }, {
+    "concentrated": 0,
+    "id": 0,
+    "name": "郑宇玲",
+    "timeInfo": [{
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 1
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 2
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 3
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 4
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 5
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 6
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 7
+    }],
+    "type": "Teacher"
+  }, {
+    "concentrated": 0,
+    "id": 0,
+    "name": "郑淳",
+    "timeInfo": [{
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 1
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 2
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 3
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 4
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 5
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 6
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 7
+    }],
+    "type": "Teacher"
+  }, {
+    "concentrated": 0,
+    "id": 0,
+    "name": "闵文华",
+    "timeInfo": [{
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 1
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 2
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 3
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 4
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 5
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 6
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 7
+    }],
+    "type": "Teacher"
+  }, {
+    "concentrated": 0,
+    "id": 0,
+    "name": "陈伟",
+    "timeInfo": [{
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 1
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 2
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 3
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 4
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 5
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 6
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 7
+    }],
+    "type": "Teacher"
+  }, {
+    "concentrated": 0,
+    "id": 0,
+    "name": "陈申明",
+    "timeInfo": [{
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 1
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 2
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 3
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 4
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 5
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 6
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 7
+    }],
+    "type": "Teacher"
+  }, {
+    "concentrated": 0,
+    "id": 0,
+    "name": "雷勋梅",
+    "timeInfo": [{
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 1
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 2
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 3
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 4
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 5
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 6
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 7
+    }],
+    "type": "Teacher"
+  }, {
+    "concentrated": 0,
+    "id": 0,
+    "name": "骆静",
+    "timeInfo": [{
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 1
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 2
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 3
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 4
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 5
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 6
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 7
+    }],
+    "type": "Teacher"
+  }, {
+    "concentrated": 0,
+    "id": 0,
+    "name": "鲁小平",
+    "timeInfo": [{
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 1
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 2
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 3
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 4
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 5
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 6
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 7
+    }],
+    "type": "Teacher"
+  }, {
+    "concentrated": 0,
+    "id": 0,
+    "name": "鲁正文",
+    "timeInfo": [{
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 1
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 2
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 3
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 4
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 5
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 6
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 7
+    }],
+    "type": "Teacher"
+  }, {
+    "concentrated": 0,
+    "id": 0,
+    "name": "黄华松",
+    "timeInfo": [{
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 1
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 2
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 3
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 4
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 5
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 6
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 7
+    }],
+    "type": "Teacher"
+  }, {
+    "concentrated": 1,
+    "id": 0,
+    "name": "黄约明",
+    "timeInfo": [{
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 1
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 2
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 3
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 4
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 5
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 6
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 7
+    }],
+    "type": "Teacher"
+  }, {
+    "concentrated": 0,
+    "id": 0,
+    "name": "龙建华",
+    "timeInfo": [{
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 1
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 2
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 3
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 4
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 5
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 6
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 7
+    }],
+    "type": "Teacher"
+  }],
+  "teaName": ["万小军", "万志文", "余堂洲", "余芬", "余莉（大）", "余莉（小）", "冯平", "刘亚东", "刘喜云", "刘巧梅", "刘花", "叶传鑫", "吴敏", "吴能文", "周四林", "周洁", "夏超", "夏鄂华", "姚远军", "孙丹", "孟桂花", "巴韫华", "张俊勇", "张兰", "张根祥", "张莉芹", "彭梅芳", "徐胜", "曾伟", "曾秀娟", "朱利", "朱礼", "李从德", "李俊", "李来贵", "杜仕杰", "杨林", "杨莉", "洪爱莲", "熊全安", "熊建军", "熊珍", "王娜", "王小燕", "王慧超", "王琼", "王瑛", "程华松", "纪卫军", "纪巧玲", "罗咏梅", "罗清桥", "罗紧超", "肖旭秀", "肖述秀", "胡涛", "蔡光明", "谢畅", "赵卉", "邓琴", "邱晓春", "郑宇玲", "郑淳", "闵文华", "陈伟", "陈申明", "雷勋梅", "骆静", "鲁小平", "鲁正文", "黄华松", "黄约明", "龙建华"],
+  "teaNum": 73,
+  "weakDay": 7,
+  "ypkInfo": [{
+    "classID": 3680,
+    "ypkDataInfo": [{
+      "day": 1,
+      "ypkData": [4096, 0, 0, 4095, 0, 0, 0, 0]
+    }, {
+      "day": 2,
+      "ypkData": [0, 0, 0, 0, 0, 0, 0, 4103]
+    }, {
+      "day": 3,
+      "ypkData": [0, 0, 0, 0, 0, 0, 0, 0]
+    }, {
+      "day": 4,
+      "ypkData": [0, 0, 0, 0, 0, 0, 0, 0]
+    }, {
+      "day": 5,
+      "ypkData": [0, 0, 0, 0, 0, 0, 0, 0]
+    }, {
+      "day": 6,
+      "ypkData": [0, 0, 0, 0, 0, 0, 0, 0]
+    }, {
+      "day": 7,
+      "ypkData": [0, 0, 0, 0, 0, 0, 4097, 0]
+    }]
+  }, {
+    "classID": 3681,
+    "ypkDataInfo": [{
+      "day": 1,
+      "ypkData": [4093, 0, 0, 4092, 0, 0, 0, 4097]
+    }, {
+      "day": 2,
+      "ypkData": [0, 0, 0, 0, 0, 0, 0, 0]
+    }, {
+      "day": 3,
+      "ypkData": [0, 0, 0, 0, 0, 0, 0, 0]
+    }, {
+      "day": 4,
+      "ypkData": [0, 0, 0, 0, 0, 0, 0, 0]
+    }, {
+      "day": 5,
+      "ypkData": [0, 0, 0, 0, 0, 0, 0, 0]
+    }, {
+      "day": 6,
+      "ypkData": [0, 0, 0, 0, 0, 0, 0, 0]
+    }, {
+      "day": 7,
+      "ypkData": [0, 0, 0, 0, 0, 0, 0, 0]
+    }]
+  }, {
+    "classID": 3682,
+    "ypkDataInfo": [{
+      "day": 1,
+      "ypkData": [4094, 4096, 4092, 4103, 4093, 4095, 4097, 0]
+    }, {
+      "day": 2,
+      "ypkData": [0, 0, 0, 0, 0, 0, 0, 0]
+    }, {
+      "day": 3,
+      "ypkData": [0, 0, 0, 0, 0, 0, 0, 0]
+    }, {
+      "day": 4,
+      "ypkData": [0, 0, 0, 0, 0, 0, 0, 0]
+    }, {
+      "day": 5,
+      "ypkData": [0, 0, 0, 0, 0, 0, 0, 0]
+    }, {
+      "day": 6,
+      "ypkData": [0, 0, 0, 0, 0, 0, 0, 0]
+    }, {
+      "day": 7,
+      "ypkData": [0, 0, 0, 0, 0, 0, 0, 0]
+    }]
+  }, {
+    "classID": 3683,
+    "ypkDataInfo": [{
+      "day": 1,
+      "ypkData": [4099, 4094, 4098, 4103, 4093, 4092, 4100, 0]
+    }, {
+      "day": 2,
+      "ypkData": [0, 0, 0, 0, 0, 0, 0, 0]
+    }, {
+      "day": 3,
+      "ypkData": [0, 0, 0, 0, 0, 0, 0, 0]
+    }, {
+      "day": 4,
+      "ypkData": [0, 0, 0, 0, 0, 0, 0, 0]
+    }, {
+      "day": 5,
+      "ypkData": [0, 0, 0, 0, 0, 0, 0, 0]
+    }, {
+      "day": 6,
+      "ypkData": [0, 0, 0, 0, 0, 0, 0, 0]
+    }, {
+      "day": 7,
+      "ypkData": [0, 0, 0, 0, 0, 0, 0, 0]
+    }]
+  }, {
+    "classID": 3684,
+    "ypkDataInfo": [{
+      "day": 1,
+      "ypkData": [0, 0, 0, 0, 0, 0, 0, 0]
+    }, {
+      "day": 2,
+      "ypkData": [0, 0, 0, 0, 0, 0, 0, 0]
+    }, {
+      "day": 3,
+      "ypkData": [0, 0, 0, 0, 0, 0, 0, 0]
+    }, {
+      "day": 4,
+      "ypkData": [0, 0, 0, 0, 0, 0, 0, 0]
+    }, {
+      "day": 5,
+      "ypkData": [0, 0, 0, 0, 0, 0, 0, 0]
+    }, {
+      "day": 6,
+      "ypkData": [0, 0, 0, 0, 0, 0, 0, 0]
+    }, {
+      "day": 7,
+      "ypkData": [0, 0, 0, 0, 0, 0, 0, 0]
+    }]
+  }, {
+    "classID": 3685,
+    "ypkDataInfo": [{
+      "day": 1,
+      "ypkData": [0, 0, 0, 0, 0, 0, 0, 0]
+    }, {
+      "day": 2,
+      "ypkData": [0, 0, 0, 0, 0, 0, 0, 0]
+    }, {
+      "day": 3,
+      "ypkData": [0, 0, 0, 0, 0, 0, 0, 0]
+    }, {
+      "day": 4,
+      "ypkData": [0, 0, 0, 0, 0, 0, 0, 0]
+    }, {
+      "day": 5,
+      "ypkData": [0, 0, 0, 0, 0, 0, 0, 0]
+    }, {
+      "day": 6,
+      "ypkData": [0, 0, 0, 0, 0, 0, 0, 0]
+    }, {
+      "day": 7,
+      "ypkData": [0, 0, 0, 0, 0, 0, 0, 0]
+    }]
+  }, {
+    "classID": 3686,
+    "ypkDataInfo": [{
+      "day": 1,
+      "ypkData": [0, 0, 0, 0, 0, 0, 0, 0]
+    }, {
+      "day": 2,
+      "ypkData": [0, 0, 0, 0, 0, 0, 0, 0]
+    }, {
+      "day": 3,
+      "ypkData": [0, 0, 0, 0, 0, 0, 0, 0]
+    }, {
+      "day": 4,
+      "ypkData": [0, 0, 0, 0, 0, 0, 0, 0]
+    }, {
+      "day": 5,
+      "ypkData": [0, 0, 0, 0, 0, 0, 0, 0]
+    }, {
+      "day": 6,
+      "ypkData": [0, 0, 0, 0, 0, 0, 0, 0]
+    }, {
+      "day": 7,
+      "ypkData": [0, 0, 0, 0, 0, 0, 0, 0]
+    }]
+  }, {
+    "classID": 3687,
+    "ypkDataInfo": [{
+      "day": 1,
+      "ypkData": [0, 0, 0, 0, 0, 0, 0, 0]
+    }, {
+      "day": 2,
+      "ypkData": [0, 0, 0, 0, 0, 0, 0, 0]
+    }, {
+      "day": 3,
+      "ypkData": [0, 0, 0, 0, 0, 0, 0, 0]
+    }, {
+      "day": 4,
+      "ypkData": [0, 0, 0, 0, 0, 0, 0, 0]
+    }, {
+      "day": 5,
+      "ypkData": [0, 0, 0, 0, 0, 0, 0, 0]
+    }, {
+      "day": 6,
+      "ypkData": [0, 0, 0, 0, 0, 0, 0, 0]
+    }, {
+      "day": 7,
+      "ypkData": [0, 0, 0, 0, 0, 0, 0, 0]
+    }]
+  }, {
+    "classID": 3688,
+    "ypkDataInfo": [{
+      "day": 1,
+      "ypkData": [0, 0, 0, 0, 0, 0, 0, 0]
+    }, {
+      "day": 2,
+      "ypkData": [0, 0, 0, 0, 0, 0, 0, 0]
+    }, {
+      "day": 3,
+      "ypkData": [0, 0, 0, 0, 0, 0, 0, 0]
+    }, {
+      "day": 4,
+      "ypkData": [0, 0, 0, 0, 0, 0, 0, 0]
+    }, {
+      "day": 5,
+      "ypkData": [0, 0, 0, 0, 0, 0, 0, 0]
+    }, {
+      "day": 6,
+      "ypkData": [0, 0, 0, 0, 0, 0, 0, 0]
+    }, {
+      "day": 7,
+      "ypkData": [0, 0, 0, 0, 0, 0, 0, 0]
+    }]
+  }, {
+    "classID": 3689,
+    "ypkDataInfo": [{
+      "day": 1,
+      "ypkData": [0, 0, 0, 0, 0, 0, 0, 0]
+    }, {
+      "day": 2,
+      "ypkData": [0, 0, 0, 0, 0, 0, 0, 0]
+    }, {
+      "day": 3,
+      "ypkData": [0, 0, 0, 0, 0, 0, 0, 0]
+    }, {
+      "day": 4,
+      "ypkData": [0, 0, 0, 0, 0, 0, 0, 0]
+    }, {
+      "day": 5,
+      "ypkData": [0, 0, 0, 0, 0, 0, 0, 0]
+    }, {
+      "day": 6,
+      "ypkData": [0, 0, 0, 0, 0, 0, 0, 0]
+    }, {
+      "day": 7,
+      "ypkData": [0, 0, 0, 0, 0, 0, 0, 0]
+    }]
+  }, {
+    "classID": 3690,
+    "ypkDataInfo": [{
+      "day": 1,
+      "ypkData": [0, 0, 0, 0, 0, 0, 0, 0]
+    }, {
+      "day": 2,
+      "ypkData": [0, 0, 4100, 0, 0, 0, 4103, 0]
+    }, {
+      "day": 3,
+      "ypkData": [0, 0, 0, 0, 0, 0, 0, 0]
+    }, {
+      "day": 4,
+      "ypkData": [0, 0, 0, 0, 0, 0, 0, 0]
+    }, {
+      "day": 5,
+      "ypkData": [0, 0, 0, 0, 0, 0, 0, 0]
+    }, {
+      "day": 6,
+      "ypkData": [0, 0, 0, 0, 0, 0, 0, 0]
+    }, {
+      "day": 7,
+      "ypkData": [0, 0, 0, 0, 0, 0, 0, 0]
+    }]
+  }, {
+    "classID": 3691,
+    "ypkDataInfo": [{
+      "day": 1,
+      "ypkData": [0, 0, 0, 0, 0, 4095, 0, 0]
+    }, {
+      "day": 2,
+      "ypkData": [0, 0, 0, 0, 0, 0, 0, 0]
+    }, {
+      "day": 3,
+      "ypkData": [0, 0, 0, 0, 0, 0, 0, 0]
+    }, {
+      "day": 4,
+      "ypkData": [0, 0, 0, 0, 0, 0, 0, 0]
+    }, {
+      "day": 5,
+      "ypkData": [0, 0, 0, 0, 0, 0, 0, 0]
+    }, {
+      "day": 6,
+      "ypkData": [0, 0, 0, 0, 0, 0, 0, 0]
+    }, {
+      "day": 7,
+      "ypkData": [0, 0, 0, 0, 0, 0, 0, 0]
+    }]
+  }, {
+    "classID": 3692,
+    "ypkDataInfo": [{
+      "day": 1,
+      "ypkData": [0, 0, 0, 0, 0, 0, 0, 0]
+    }, {
+      "day": 2,
+      "ypkData": [0, 0, 0, 0, 4096, 4096, 0, 0]
+    }, {
+      "day": 3,
+      "ypkData": [0, 0, 0, 0, 0, 4096, 0, 0]
+    }, {
+      "day": 4,
+      "ypkData": [0, 0, 0, 0, 0, 0, 4096, 0]
+    }, {
+      "day": 5,
+      "ypkData": [0, 0, 0, 0, 0, 0, 0, 0]
+    }, {
+      "day": 6,
+      "ypkData": [0, 0, 0, 0, 0, 0, 0, 0]
+    }, {
+      "day": 7,
+      "ypkData": [0, 0, 0, 0, 0, 0, 0, 0]
+    }]
+  }, {
+    "classID": 3693,
+    "ypkDataInfo": [{
+      "day": 1,
+      "ypkData": [0, 4095, 0, 4095, 0, 0, 0, 0]
+    }, {
+      "day": 2,
+      "ypkData": [0, 0, 0, 4097, 0, 0, 0, 0]
+    }, {
+      "day": 3,
+      "ypkData": [0, 0, 0, 0, 4097, 0, 0, 0]
+    }, {
+      "day": 4,
+      "ypkData": [0, 0, 0, 0, 0, 4093, 0, 0]
+    }, {
+      "day": 5,
+      "ypkData": [0, 0, 0, 0, 0, 0, 4103, 0]
+    }, {
+      "day": 6,
+      "ypkData": [0, 0, 0, 0, 0, 0, 0, 0]
+    }, {
+      "day": 7,
+      "ypkData": [0, 0, 0, 0, 0, 0, 0, 0]
+    }]
+  }, {
+    "classID": 3694,
+    "ypkDataInfo": [{
+      "day": 1,
+      "ypkData": [4096, 4103, 0, 4095, 0, 0, 0, 0]
+    }, {
+      "day": 2,
+      "ypkData": [0, 0, 0, 4095, 0, 4097, 0, 0]
+    }, {
+      "day": 3,
+      "ypkData": [0, 0, 4097, 4097, 0, 0, 0, 0]
+    }, {
+      "day": 4,
+      "ypkData": [0, 0, 0, 4097, 0, 0, 0, 0]
+    }, {
+      "day": 5,
+      "ypkData": [0, 0, 0, 4095, 0, 0, 0, 4094]
+    }, {
+      "day": 6,
+      "ypkData": [0, 4092, 0, 4095, 0, 0, 0, 0]
+    }, {
+      "day": 7,
+      "ypkData": [0, 0, 4097, 4095, 0, 0, 0, 0]
+    }]
+  }, {
+    "classID": 3695,
+    "ypkDataInfo": [{
+      "day": 1,
+      "ypkData": [0, 0, 0, 0, 0, 0, 0, 0]
+    }, {
+      "day": 2,
+      "ypkData": [0, 0, 0, 0, 0, 0, 0, 0]
+    }, {
+      "day": 3,
+      "ypkData": [0, 0, 0, 0, 0, 0, 0, 0]
+    }, {
+      "day": 4,
+      "ypkData": [0, 0, 0, 0, 0, 0, 0, 0]
+    }, {
+      "day": 5,
+      "ypkData": [0, 0, 0, 0, 0, 0, 0, 0]
+    }, {
+      "day": 6,
+      "ypkData": [0, 0, 0, 0, 0, 0, 0, 0]
+    }, {
+      "day": 7,
+      "ypkData": [0, 0, 0, 0, 0, 0, 0, 0]
+    }]
+  }, {
+    "classID": 3696,
+    "ypkDataInfo": [{
+      "day": 1,
+      "ypkData": [0, 4094, 0, 0, 0, 0, 0, 0]
+    }, {
+      "day": 2,
+      "ypkData": [0, 0, 0, 0, 0, 4103, 0, 0]
+    }, {
+      "day": 3,
+      "ypkData": [0, 0, 0, 0, 0, 0, 0, 0]
+    }, {
+      "day": 4,
+      "ypkData": [0, 0, 0, 0, 0, 0, 0, 0]
+    }, {
+      "day": 5,
+      "ypkData": [0, 0, 0, 0, 0, 0, 0, 0]
+    }, {
+      "day": 6,
+      "ypkData": [0, 0, 0, 0, 0, 4095, 0, 0]
+    }, {
+      "day": 7,
+      "ypkData": [4097, 0, 0, 0, 0, 0, 0, 0]
+    }]
+  }, {
+    "classID": 3697,
+    "ypkDataInfo": [{
+      "day": 1,
+      "ypkData": [4095, 0, 0, 0, 0, 4097, 0, 0]
+    }, {
+      "day": 2,
+      "ypkData": [0, 0, 0, 0, 0, 0, 0, 0]
+    }, {
+      "day": 3,
+      "ypkData": [0, 0, 0, 0, 0, 0, 0, 0]
+    }, {
+      "day": 4,
+      "ypkData": [0, 0, 0, 0, 0, 4092, 0, 0]
+    }, {
+      "day": 5,
+      "ypkData": [0, 0, 0, 0, 0, 0, 0, 0]
+    }, {
+      "day": 6,
+      "ypkData": [0, 0, 0, 0, 0, 0, 0, 0]
+    }, {
+      "day": 7,
+      "ypkData": [0, 4103, 0, 0, 0, 0, 0, 0]
+    }]
+  }, {
+    "classID": 3698,
+    "ypkDataInfo": [{
+      "day": 1,
+      "ypkData": [4092, 4099, 0, 0, 0, 0, 0, 0]
+    }, {
+      "day": 2,
+      "ypkData": [0, 0, 0, 0, 0, 0, 0, 0]
+    }, {
+      "day": 3,
+      "ypkData": [0, 4098, 0, 0, 0, 0, 0, 0]
+    }, {
+      "day": 4,
+      "ypkData": [0, 0, 0, 0, 0, 0, 0, 0]
+    }, {
+      "day": 5,
+      "ypkData": [0, 4093, 0, 0, 0, 0, 0, 0]
+    }, {
+      "day": 6,
+      "ypkData": [0, 0, 0, 0, 0, 0, 0, 0]
+    }, {
+      "day": 7,
+      "ypkData": [0, 0, 0, 0, 0, 0, 0, 0]
+    }]
+  }, {
+    "classID": 3699,
+    "ypkDataInfo": [{
+      "day": 1,
+      "ypkData": [0, 4093, 0, 0, 0, 0, 0, 0]
+    }, {
+      "day": 2,
+      "ypkData": [0, 0, 4095, 0, 0, 0, 0, 4096]
+    }, {
+      "day": 3,
+      "ypkData": [0, 0, 0, 4097, 0, 0, 0, 0]
+    }, {
+      "day": 4,
+      "ypkData": [0, 0, 0, 0, 0, 4092, 0, 0]
+    }, {
+      "day": 5,
+      "ypkData": [0, 0, 0, 0, 0, 0, 0, 0]
+    }, {
+      "day": 6,
+      "ypkData": [0, 0, 0, 0, 0, 0, 0, 0]
+    }, {
+      "day": 7,
+      "ypkData": [0, 0, 0, 0, 0, 0, 0, 0]
+    }]
+  }]
+}

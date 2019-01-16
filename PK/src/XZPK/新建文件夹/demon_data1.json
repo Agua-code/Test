@@ -1,0 +1,137 @@
+{
+  "weakDay": 5,
+  "dayCrsMr": 4,
+  "dayCrsAf": 3,
+  "dayCrs": 7,
+  "classNum": 2,
+  "crsNum":10,
+  "teaNum": 49, 
+  "ctwo": 1,
+  "class": [
+    {
+      "classID": 1,
+      "className": "高二1班",
+      "course": [
+        {
+          "courseID": 1, 
+          "courseName": "语文", 
+          "courseNum": 5,
+          "courseLTNum": 0, 
+          "courseTeaNum": 1,
+          "teacherList": [{"id": 1,"name": "张三"}]
+        },
+        {
+          "courseID": 2,
+          "courseName": "数学",
+          "courseNum": 5,
+          "courseLTNum": 1,
+          "courseTeaNum": 1,
+          "teacherList": [{"id": 2,"name": "李四"}]
+        }
+      ]
+    },
+    {
+      "classID": 2,
+      "className": "高二2班",
+      "course": [
+        {
+          "courseID": 5,
+          "courseName": "选考",
+          "courseNum": 4,
+          "courseLTNum": 0,
+          "courseTeaNum": 3,
+          "teacherList": [{"id": 23,"name": "王一"},{"id": 34,"name": "王二"},{"id": 45,"name": "王三"}]
+        },
+        {
+          "courseID": 6,
+          "courseName": "自习",
+          "courseNum": 3,
+          "courseLTNum": 0,
+          "courseTeaNum": 0,
+          "teacherList": [{"id": 0,"name": ""}]
+        }
+      ]
+    }
+  ],
+  "noClassTime": [
+    {
+      "type": "Class",
+      "id": 1,
+      "time": [
+        {
+          "day": 1,
+          "avbTime": [ 1, 1, 1, 1, 1, 1, 1 ]
+        {
+          "day": 2,
+          "avbTime": [ 1, 1, 1, 1, 1, 1, 1 ]
+        }
+      ]
+    },
+    {
+      "type": "Teacher",
+      "id": 1,
+      "concentrated": 1,
+      "time": [
+        {
+          "day": 1,
+          "avbTime": [ 1, 1, 1, 1, 1, 1, 1 ]
+        },
+        {
+          "day": 2,
+          "avbTime": [ 1, 1, 1, 1, 1, 1, 1 ]
+        }
+      ]
+    },
+    {
+      "type": "Course",
+      "id": 2,
+      "priority": 1,
+      "priorityCrs": 3,
+      "time": [
+        {
+          "day": 1,
+          "avbTime": [ 1, 1, 1, 1, 1, 1, 1 ]
+        },
+        {
+          "day": 2,
+          "avbTime": [ 1, 1, 1, 1, 1, 1, 1 ]
+        }
+      ]
+    }
+  ],
+  "HBKNum": 3,
+  "HBK": [
+    {
+      "HBKC": 1,
+      "HBKClassNum": 2,
+      "HBKClass": [ 1, 3 ]
+    },
+    {
+      "HBKC": 2,
+      "HBKClassNum": 2,
+      "HBKClass": [ 2, 4 ]
+    },
+    {
+      "HBKC": 3,
+      "HBKClassNum": 3,
+      "HBKClass": [ 3, 5, 6 ]
+    }
+  ],
+  "YPK": [
+    {
+      "classID": 1,
+      "time": [
+        {
+          "day": 1,
+          "YPKTime": [ 1, 0, 0, 0, 0, 0, 2 ]
+        },
+        {
+          "day": 2,
+          "YPKTime": [ 3, 0, 0, 0, 0, 0, 0 ]
+        }
+      ]
+    }
+  ]
+
+
+}

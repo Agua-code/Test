@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="timetable">
+    <output-path>D:/jar文件</output-path>
+    <root id="archive" name="timetable.jar">
+      <element id="module-output" name="PK" />
+    </root>
+  </artifact>
+</component>

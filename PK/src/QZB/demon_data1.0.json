@@ -1,0 +1,1054 @@
+{
+  "classCrsInfo": [{
+    "classID": 1655,
+    "courseInfoList": [{
+      "courseID": 1990,
+      "courseLTNum": 0,
+      "courseNum": 1,
+      "courseTeaName": "余莉（大）",
+      "courseTeaNum": 1
+    }, {
+      "courseID": 1976,
+      "courseLTNum": 0,
+      "courseNum": 5,
+      "courseTeaName": "孙丹",
+      "courseTeaNum": 1
+    }, {
+      "courseID": 1975,
+      "courseLTNum": 0,
+      "courseNum": 5,
+      "courseTeaName": "朱礼",
+      "courseTeaNum": 1
+    }, {
+      "courseID": 1974,
+      "courseLTNum": 0,
+      "courseNum": 5,
+      "courseTeaName": "李俊",
+      "courseTeaNum": 1
+    }, {
+      "courseID": 1979,
+      "courseLTNum": 0,
+      "courseNum": 4,
+      "courseTeaName": "纪巧玲",
+      "courseTeaNum": 1
+    }, {
+      "courseID": 1977,
+      "courseLTNum": 0,
+      "courseNum": 4,
+      "courseTeaName": "鲁小平",
+      "courseTeaNum": 1
+    }, {
+      "courseID": 1991,
+      "courseLTNum": 0,
+      "courseNum": 4,
+      "courseTeaName": "万志文",
+      "courseTeaNum": 1
+    }, {
+      "courseID": 1986,
+      "courseLTNum": 0,
+      "courseNum": 4,
+      "courseTeaName": "周洁",
+      "courseTeaNum": 1
+    }, {
+      "courseID": 1987,
+      "courseLTNum": 0,
+      "courseNum": 4,
+      "courseTeaName": "夏超",
+      "courseTeaNum": 1
+    }, {
+      "courseID": 1988,
+      "courseLTNum": 0,
+      "courseNum": 4,
+      "courseTeaName": "周四林",
+      "courseTeaNum": 1
+    }]
+  }, {
+    "classID": 1656,
+    "courseInfoList": [{
+      "courseID": 1975,
+      "courseLTNum": 0,
+      "courseNum": 5,
+      "courseTeaName": "刘巧梅",
+      "courseTeaNum": 1
+    }, {
+      "courseID": 1976,
+      "courseLTNum": 0,
+      "courseNum": 5,
+      "courseTeaName": "孙丹",
+      "courseTeaNum": 1
+    }, {
+      "courseID": 1990,
+      "courseLTNum": 0,
+      "courseNum": 1,
+      "courseTeaName": "徐胜",
+      "courseTeaNum": 1
+    }, {
+      "courseID": 1992,
+      "courseLTNum": 0,
+      "courseNum": 4,
+      "courseTeaName": "熊全安",
+      "courseTeaNum": 1
+    }, {
+      "courseID": 1974,
+      "courseLTNum": 0,
+      "courseNum": 5,
+      "courseTeaName": "肖述秀",
+      "courseTeaNum": 1
+    }, {
+      "courseID": 1977,
+      "courseLTNum": 0,
+      "courseNum": 4,
+      "courseTeaName": "雷勋梅",
+      "courseTeaNum": 1
+    }, {
+      "courseID": 1991,
+      "courseLTNum": 0,
+      "courseNum": 4,
+      "courseTeaName": "余堂洲",
+      "courseTeaNum": 1
+    }, {
+      "courseID": 1986,
+      "courseLTNum": 0,
+      "courseNum": 4,
+      "courseTeaName": "王娜",
+      "courseTeaNum": 1
+    }, {
+      "courseID": 1987,
+      "courseLTNum": 0,
+      "courseNum": 4,
+      "courseTeaName": "王小燕",
+      "courseTeaNum": 1
+    }, {
+      "courseID": 1988,
+      "courseLTNum": 0,
+      "courseNum": 4,
+      "courseTeaName": "王慧超",
+      "courseTeaNum": 1
+    }]
+  }, {
+    "classID": 1657,
+    "courseInfoList": [{
+      "courseID": 1974,
+      "courseLTNum": 0,
+      "courseNum": 5,
+      "courseTeaName": "万小军",
+      "courseTeaNum": 1
+    }, {
+      "courseID": 1978,
+      "courseLTNum": 0,
+      "courseNum": 4,
+      "courseTeaName": "余莉（大）",
+      "courseTeaNum": 1
+    }, {
+      "courseID": 1976,
+      "courseLTNum": 0,
+      "courseNum": 5,
+      "courseTeaName": "夏鄂华",
+      "courseTeaNum": 1
+    }, {
+      "courseID": 1990,
+      "courseLTNum": 0,
+      "courseNum": 1,
+      "courseTeaName": "夏鄂华",
+      "courseTeaNum": 1
+    }, {
+      "courseID": 1975,
+      "courseLTNum": 0,
+      "courseNum": 5,
+      "courseTeaName": "李从德",
+      "courseTeaNum": 1
+    }, {
+      "courseID": 1992,
+      "courseLTNum": 0,
+      "courseNum": 4,
+      "courseTeaName": "赵卉",
+      "courseTeaNum": 1
+    }, {
+      "courseID": 1991,
+      "courseLTNum": 0,
+      "courseNum": 4,
+      "courseTeaName": "冯平",
+      "courseTeaNum": 1
+    }, {
+      "courseID": 1985,
+      "courseLTNum": 0,
+      "courseNum": 4,
+      "courseTeaName": "吴能文",
+      "courseTeaNum": 1
+    }, {
+      "courseID": 1987,
+      "courseLTNum": 0,
+      "courseNum": 4,
+      "courseTeaName": "吴敏",
+      "courseTeaNum": 1
+    }, {
+      "courseID": 1988,
+      "courseLTNum": 0,
+      "courseNum": 4,
+      "courseTeaName": "叶传鑫",
+      "courseTeaNum": 1
+    }]
+  }, {
+    "classID": 1658,
+    "courseInfoList": [{
+      "courseID": 1981,
+      "courseLTNum": 0,
+      "courseNum": 4,
+      "courseTeaName": "余芬",
+      "courseTeaNum": 1
+    }, {
+      "courseID": 1976,
+      "courseLTNum": 0,
+      "courseNum": 5,
+      "courseTeaName": "刘亚东",
+      "courseTeaNum": 1
+    }, {
+      "courseID": 1990,
+      "courseLTNum": 0,
+      "courseNum": 1,
+      "courseTeaName": "张根祥",
+      "courseTeaNum": 1
+    }, {
+      "courseID": 1975,
+      "courseLTNum": 0,
+      "courseNum": 5,
+      "courseTeaName": "王瑛",
+      "courseTeaNum": 1
+    }, {
+      "courseID": 1974,
+      "courseLTNum": 0,
+      "courseNum": 5,
+      "courseTeaName": "邓琴",
+      "courseTeaNum": 1
+    }, {
+      "courseID": 1992,
+      "courseLTNum": 0,
+      "courseNum": 4,
+      "courseTeaName": "陈伟",
+      "courseTeaNum": 1
+    }, {
+      "courseID": 1991,
+      "courseLTNum": 0,
+      "courseNum": 4,
+      "courseTeaName": "刘喜云",
+      "courseTeaNum": 1
+    }, {
+      "courseID": 1984,
+      "courseLTNum": 0,
+      "courseNum": 4,
+      "courseTeaName": "蔡光明",
+      "courseTeaNum": 1
+    }, {
+      "courseID": 1986,
+      "courseLTNum": 0,
+      "courseNum": 4,
+      "courseTeaName": "谢畅",
+      "courseTeaNum": 1
+    }, {
+      "courseID": 1988,
+      "courseLTNum": 0,
+      "courseNum": 4,
+      "courseTeaName": "叶传鑫",
+      "courseTeaNum": 1
+    }]
+  }],
+  "classID": [1655, 1656, 1657, 1658],
+  "classNum": 4,
+  "crsListInfo": [{
+    "courseID": 1974,
+    "courseName": "语文"
+  }, {
+    "courseID": 1975,
+    "courseName": "数学"
+  }, {
+    "courseID": 1976,
+    "courseName": "英语"
+  }, {
+    "courseID": 1977,
+    "courseName": "物理"
+  }, {
+    "courseID": 1978,
+    "courseName": "化学"
+  }, {
+    "courseID": 1979,
+    "courseName": "生物"
+  }, {
+    "courseID": 1980,
+    "courseName": "政治"
+  }, {
+    "courseID": 1981,
+    "courseName": "历史"
+  }, {
+    "courseID": 1982,
+    "courseName": "地理"
+  }, {
+    "courseID": 1983,
+    "courseName": "业物"
+  }, {
+    "courseID": 1984,
+    "courseName": "业化"
+  }, {
+    "courseID": 1985,
+    "courseName": "业生"
+  }, {
+    "courseID": 1986,
+    "courseName": "业政"
+  }, {
+    "courseID": 1987,
+    "courseName": "业历"
+  }, {
+    "courseID": 1988,
+    "courseName": "业地"
+  }, {
+    "courseID": 1989,
+    "courseName": "自习"
+  }, {
+    "courseID": 1990,
+    "courseName": "班会"
+  }, {
+    "courseID": 1991,
+    "courseName": "选考1"
+  }, {
+    "courseID": 1992,
+    "courseName": "选考2"
+  }],
+  "crsNum": 19,
+  "ctwo": 1,
+  "ctwoCrs": [1974, 1979, 1975, 1976, 1980],
+  "ctwoTime": 5,
+  "dayCrs": 8,
+  "dayCrsAf": 4,
+  "dayCrsMr": 4,
+  "hBKNum": 0,
+  "hbkInfo": [{
+    "hbkClassInfo": [1655, 1656],
+    "hbkClassNum": 2,
+    "hbkcID": 1976
+  }],
+  "noClassTimeInfo": [{
+    "concentrated": 0,
+    "id": 1655,
+    "timeInfo": [{
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 1
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 2
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 3
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 4
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 5
+    }],
+    "type": "Class"
+  }, {
+    "concentrated": 0,
+    "id": 1656,
+    "timeInfo": [{
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 1
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 2
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 3
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 4
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 5
+    }],
+    "type": "Class"
+  }, {
+    "concentrated": 0,
+    "id": 1657,
+    "timeInfo": [{
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 1
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 2
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 3
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 4
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 5
+    }],
+    "type": "Class"
+  }, {
+    "concentrated": 0,
+    "id": 1658,
+    "timeInfo": [{
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 1
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 2
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 3
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 4
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 5
+    }],
+    "type": "Class"
+  }, {
+    "concentrated": 0,
+    "id": 1974,
+    "timeInfo": [{
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 1
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 2
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 3
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 4
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 5
+    }],
+    "type": "Course"
+  }, {
+    "concentrated": 0,
+    "id": 1975,
+    "timeInfo": [{
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 1
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 2
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 3
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 4
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 5
+    }],
+    "type": "Course"
+  }, {
+    "concentrated": 0,
+    "id": 1976,
+    "timeInfo": [{
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 1
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 2
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 3
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 4
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 5
+    }],
+    "type": "Course"
+  }, {
+    "concentrated": 0,
+    "id": 1977,
+    "timeInfo": [{
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 1
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 2
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 3
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 4
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 5
+    }],
+    "type": "Course"
+  }, {
+    "concentrated": 0,
+    "id": 1978,
+    "timeInfo": [{
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 1
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 2
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 3
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 4
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 5
+    }],
+    "type": "Course"
+  }, {
+    "concentrated": 0,
+    "id": 1979,
+    "timeInfo": [{
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 1
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 2
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 3
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 4
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 5
+    }],
+    "type": "Course"
+  }, {
+    "concentrated": 0,
+    "id": 1980,
+    "timeInfo": [{
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 1
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 2
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 3
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 4
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 5
+    }],
+    "type": "Course"
+  }, {
+    "concentrated": 0,
+    "id": 1981,
+    "timeInfo": [{
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 1
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 2
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 3
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 4
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 5
+    }],
+    "type": "Course"
+  }, {
+    "concentrated": 0,
+    "id": 1982,
+    "timeInfo": [{
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 1
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 2
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 3
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 4
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 5
+    }],
+    "type": "Course"
+  }, {
+    "concentrated": 0,
+    "id": 1983,
+    "timeInfo": [{
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 1
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 2
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 3
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 4
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 5
+    }],
+    "type": "Course"
+  }, {
+    "concentrated": 0,
+    "id": 1984,
+    "timeInfo": [{
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 1
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 2
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 3
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 4
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 5
+    }],
+    "type": "Course"
+  }, {
+    "concentrated": 0,
+    "id": 1985,
+    "timeInfo": [{
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 1
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 2
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 3
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 4
+    }, {
+      "avbTimeInfo": [1, 1, 1, 1, 1, 1, 1, 1],
+      "day": 5
+    }],
+    "type": "Course"
+  }],
+  "teaName": ["万小军", "万志文", "余堂洲", "余芬", "余莉（大）", "余莉（小）", "冯平", "刘亚东", "刘喜云", "刘巧梅", "刘花", "叶传鑫", "吴敏", "吴能文", "周四林", "周洁", "夏超", "夏鄂华", "姚远军", "孙丹", "孟桂花", "巴韫华", "张俊勇", "张兰", "张根祥", "张莉芹", "彭梅芳", "徐胜", "曾伟", "曾秀娟", "朱利", "朱礼", "李从德", "李俊", "李来贵", "杜仕杰", "杨林", "杨莉", "洪爱莲", "熊全安", "熊建军", "熊珍", "王娜", "王小燕", "王慧超", "王琼", "王瑛", "程华松", "纪卫军", "纪巧玲", "罗咏梅", "罗清桥", "罗紧超", "肖旭秀", "肖述秀", "胡涛", "蔡光明", "谢畅", "赵卉", "邓琴", "邱晓春", "郑宇玲", "郑淳", "闵文华", "陈伟", "陈申明", "雷勋梅", "骆静", "鲁小平", "鲁正文", "黄华松", "黄约明", "龙建华"],
+  "teaNum": 73,
+  "weakDay": 5,
+  "ypkInfo": [{
+    "classID": 1655,
+    "ypkDataInfo": [{
+      "day": 1,
+      "ypkData": [0, 0, 0, 0, 0, 0, 0, 0]
+    }, {
+      "day": 2,
+      "ypkData": [0, 0, 0, 0, 0, 0, 0, 0]
+    }, {
+      "day": 3,
+      "ypkData": [0, 0, 0, 0, 0, 0, 0, 0]
+    }, {
+      "day": 4,
+      "ypkData": [0, 0, 0, 0, 0, 0, 0, 0]
+    }, {
+      "day": 5,
+      "ypkData": [0, 0, 0, 0, 0, 0, 0, 0]
+    }]
+  }, {
+    "classID": 1656,
+    "ypkDataInfo": [{
+      "day": 1,
+      "ypkData": [0, 0, 0, 0, 0, 0, 0, 0]
+    }, {
+      "day": 2,
+      "ypkData": [0, 0, 0, 0, 0, 0, 0, 0]
+    }, {
+      "day": 3,
+      "ypkData": [0, 0, 0, 0, 0, 0, 0, 0]
+    }, {
+      "day": 4,
+      "ypkData": [0, 0, 0, 0, 0, 0, 0, 0]
+    }, {
+      "day": 5,
+      "ypkData": [0, 0, 0, 0, 0, 0, 0, 0]
+    }]
+  }, {
+    "classID": 1657,
+    "ypkDataInfo": [{
+      "day": 1,
+      "ypkData": [0, 0, 0, 0, 0, 0, 0, 0]
+    }, {
+      "day": 2,
+      "ypkData": [0, 0, 0, 0, 0, 0, 0, 0]
+    }, {
+      "day": 3,
+      "ypkData": [0, 0, 0, 0, 0, 0, 0, 0]
+    }, {
+      "day": 4,
+      "ypkData": [0, 0, 0, 0, 0, 0, 0, 0]
+    }, {
+      "day": 5,
+      "ypkData": [0, 0, 0, 0, 0, 0, 0, 0]
+    }]
+  }, {
+    "classID": 1658,
+    "ypkDataInfo": [{
+      "day": 1,
+      "ypkData": [0, 0, 0, 0, 0, 0, 0, 0]
+    }, {
+      "day": 2,
+      "ypkData": [0, 0, 0, 0, 0, 0, 0, 0]
+    }, {
+      "day": 3,
+      "ypkData": [0, 0, 0, 0, 0, 0, 0, 0]
+    }, {
+      "day": 4,
+      "ypkData": [0, 0, 0, 0, 0, 0, 0, 0]
+    }, {
+      "day": 5,
+      "ypkData": [0, 0, 0, 0, 0, 0, 0, 0]
+    }]
+  }],
+  "xkNum":2,
+  "xkList": [
+    {
+    "xkID": 1991,
+    "xkClass": [1655, 1656, 1657, 1658]
+    },
+    {
+      "xkID": 1992,
+      "xkClass": [1656, 1657, 1658]
+    }
+  ],
+  "stuData": [{
+    "stuName": "张三",
+    "stuID": 1001,
+    "stuClass": 1655,
+    "stuMoveList": [{
+      "stuMoveCourse": 1991,
+      "stuCourse": 1978,
+      "stuMoveClass": 1655
+    }],
+    "stuXKList": [{
+      "stuXKCourse": 1983,
+      "stuXKClass": 0
+    },
+      {
+        "stuXKCourse": 1984,
+        "stuXKClass": 0
+      },
+      {
+        "stuXKCourse": 1985,
+        "stuXKClass": 0
+      },
+      {
+        "stuXKCourse": 1986,
+        "stuXKClass": 1655
+      },
+      {
+        "stuXKCourse": 1987,
+        "stuXKClass": 1655
+      },
+      {
+        "stuXKCourse": 1988,
+        "stuXKClass": 1655
+      }
+    ]
+  },
+    {
+      "stuName": "李四",
+      "stuID": 1002,
+      "stuClass": 1656,
+      "stuMoveList": [{
+        "stuMoveCourse": 1991,
+        "stuCourse": 1979,
+        "stuMoveClass": 1656
+      },
+        {
+          "stuMoveCourse": 1992,
+          "stuCourse": 1978,
+          "stuMoveClass": 1656
+        }
+      ],
+      "stuXKList": [{
+        "stuXKCourse": 1983,
+        "stuXKClass": 0
+      },
+        {
+          "stuXKCourse": 1984,
+          "stuXKClass": 0
+        },
+        {
+          "stuXKCourse": 1985,
+          "stuXKClass": 0
+        },
+        {
+          "stuXKCourse": 1986,
+          "stuXKClass": 1656
+        },
+        {
+          "stuXKCourse": 1987,
+          "stuXKClass": 1656
+        },
+        {
+          "stuXKCourse": 1988,
+          "stuXKClass": 1656
+        }
+      ]
+    },
+    {
+      "stuName": "王五",
+      "stuID": 1003,
+      "stuClass": 1657,
+      "stuMoveList": [{
+        "stuMoveCourse": 1991,
+        "stuCourse": 1977,
+        "stuMoveClass": 1657
+      },
+        {
+          "stuMoveCourse": 1992,
+          "stuCourse": 1980,
+          "stuMoveClass": 1657
+        }
+      ],
+      "stuXKList": [{
+        "stuXKCourse": 1983,
+        "stuXKClass": 0
+      },
+        {
+          "stuXKCourse": 1984,
+          "stuXKClass": 0
+        },
+        {
+          "stuXKCourse": 1985,
+          "stuXKClass": 1657
+        },
+        {
+          "stuXKCourse": 1986,
+          "stuXKClass": 0
+        },
+        {
+          "stuXKCourse": 1987,
+          "stuXKClass": 1657
+        },
+        {
+          "stuXKCourse": 1988,
+          "stuXKClass": 1657
+        }
+      ]
+    },
+    {
+      "stuName": "朱六",
+      "stuID": 1004,
+      "stuClass": 1658,
+      "stuMoveList": [{
+        "stuMoveCourse": 1991,
+        "stuCourse": 1979,
+        "stuMoveClass": 1658
+      },
+        {
+          "stuMoveCourse": 1992,
+          "stuCourse": 1977,
+          "stuMoveClass": 1658
+        }
+      ],
+      "stuXKList": [{
+        "stuXKCourse": 1983,
+        "stuXKClass": 0
+      },
+
+        {
+          "stuXKCourse": 1984,
+          "stuXKClass": 0
+        },
+        {
+          "stuXKCourse": 1985,
+          "stuXKClass": 1657
+        },
+        {
+          "stuXKCourse": 1986,
+          "stuXKClass": 1658
+        },
+        {
+          "stuXKCourse": 1987,
+          "stuXKClass": 0
+        },
+        {
+          "stuXKCourse": 1988,
+          "stuXKClass": 1658
+        }
+      ]
+    }, {
+      "stuName": "张三三",
+      "stuID": 1005,
+      "stuClass": 1655,
+      "stuMoveList": [{
+        "stuMoveCourse": 1991,
+        "stuCourse": 1978,
+        "stuMoveClass": 1655
+      }],
+      "stuXKList": [{
+        "stuXKCourse": 1983,
+        "stuXKClass": 0
+      },
+        {
+          "stuXKCourse": 1984,
+          "stuXKClass": 0
+        },
+        {
+          "stuXKCourse": 1985,
+          "stuXKClass": 0
+        },
+        {
+          "stuXKCourse": 1986,
+          "stuXKClass": 1655
+        },
+        {
+          "stuXKCourse": 1987,
+          "stuXKClass": 1655
+        },
+        {
+          "stuXKCourse": 1988,
+          "stuXKClass": 1655
+        }
+      ]
+    },
+    {
+      "stuName": "李四四",
+      "stuID": 1006,
+      "stuClass": 1656,
+      "stuMoveList": [{
+        "stuMoveCourse": 1991,
+        "stuCourse": 1979,
+        "stuMoveClass": 1656
+      },
+        {
+          "stuMoveCourse": 1992,
+          "stuCourse": 1978,
+          "stuMoveClass": 1656
+        }
+      ],
+      "stuXKList": [{
+        "stuXKCourse": 1983,
+        "stuXKClass": 0
+      },
+        {
+          "stuXKCourse": 1984,
+          "stuXKClass": 0
+        },
+        {
+          "stuXKCourse": 1985,
+          "stuXKClass": 1657
+        },
+        {
+          "stuXKCourse": 1986,
+          "stuXKClass": 0
+        },
+        {
+          "stuXKCourse": 1987,
+          "stuXKClass": 1656
+        },
+        {
+          "stuXKCourse": 1988,
+          "stuXKClass": 1656
+        }
+      ]
+    },
+    {
+      "stuName": "王五五",
+      "stuID": 1007,
+      "stuClass": 1657,
+      "stuMoveList": [{
+        "stuMoveCourse": 1991,
+        "stuCourse": 1977,
+        "stuMoveClass": 1657
+      },
+        {
+          "stuMoveCourse": 1992,
+          "stuCourse": 1980,
+          "stuMoveClass": 1657
+        }
+      ],
+      "stuXKList": [{
+        "stuXKCourse": 1983,
+        "stuXKClass": 0
+      },
+        {
+          "stuXKCourse": 1984,
+          "stuXKClass": 0
+        },
+        {
+          "stuXKCourse": 1985,
+          "stuXKClass": 1657
+        },
+        {
+          "stuXKCourse": 1986,
+          "stuXKClass": 0
+        },
+        {
+          "stuXKCourse": 1987,
+          "stuXKClass": 1657
+        },
+        {
+          "stuXKCourse": 1988,
+          "stuXKClass": 1657
+        }
+      ]
+    },
+    {
+      "stuName": "朱六六",
+      "stuID": 1008,
+      "stuClass": 1658,
+      "stuMoveList": [{
+        "stuMoveCourse": 1991,
+        "stuCourse": 1979,
+        "stuMoveClass": 1658
+      },
+        {
+          "stuMoveCourse": 1992,
+          "stuCourse": 1977,
+          "stuMoveClass": 1658
+        }
+      ],
+      "stuXKList": [{
+        "stuXKCourse": 1983,
+        "stuXKClass": 0
+      },
+
+        {
+          "stuXKCourse": 1984,
+          "stuXKClass": 1658
+        },
+        {
+          "stuXKCourse": 1985,
+          "stuXKClass": 0
+        },
+        {
+          "stuXKCourse": 1986,
+          "stuXKClass": 1658
+        },
+        {
+          "stuXKCourse": 1987,
+          "stuXKClass": 0
+        },
+        {
+          "stuXKCourse": 1988,
+          "stuXKClass": 1658
+        }
+      ]
+    }
+  ]
+}
